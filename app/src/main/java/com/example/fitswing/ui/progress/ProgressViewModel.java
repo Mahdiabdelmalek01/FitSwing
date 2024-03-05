@@ -8,7 +8,7 @@ public class ProgressViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public HomeViewModel() {
+    public ProgressViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is progress fragment");
     }
