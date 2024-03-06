@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitswing.app-mergeDebugResources-42:/values-v25/values-v25.xml",
+            "outputFile": "com.example.fitswing.app-mergeDebugResources-48:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "/home/ayoub/.gradle/caches/transforms-3/01cfbbf3c4486002f408b232e267f8d6/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

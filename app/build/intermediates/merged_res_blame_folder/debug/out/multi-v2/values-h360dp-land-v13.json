@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitswing.app-mergeDebugResources-42:/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "com.example.fitswing.app-mergeDebugResources-48:/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/home/ayoub/.gradle/caches/transforms-3/9310a5132fd2c64f7392b1a6359e3f11/transformed/material-1.11.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

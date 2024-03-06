@@ -1,352 +1,603 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
-MERGED from [androidx.databinding:viewbinding:8.1.4] /home/ayoub/.gradle/caches/transforms-3/36e488c366d3855ebb02043db4c048c4/transformed/viewbinding-8.1.4/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-common:2.7.6] /home/ayoub/.gradle/caches/transforms-3/d516bdbadb7ed7984e815e1fc67f464d/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/ayoub/.gradle/caches/transforms-3/e71d56c27a00d0d17c3ee14b1da7d998/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment:2.7.6] /home/ayoub/.gradle/caches/transforms-3/2cec87af6684ad085eccc0c8f22b134a/transformed/navigation-fragment-2.7.6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-ui:2.7.6] /home/ayoub/.gradle/caches/transforms-3/45c0f2900bf5ecb3ceb566cbd05e3175/transformed/navigation-ui-2.7.6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/9310a5132fd2c64f7392b1a6359e3f11/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ayoub/.gradle/caches/transforms-3/4362fcb527871e718161f451f31cea78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ayoub/.gradle/caches/transforms-3/537928bf4dc080f90615255f79ea4704/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ayoub/.gradle/caches/transforms-3/01cfbbf3c4486002f408b232e267f8d6/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/ayoub/.gradle/caches/transforms-3/3a9d8a3360fec84e88b43a5787f6d974/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dc5059771eaba673976e07ed51be7264/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] /home/ayoub/.gradle/caches/transforms-3/1155cc5d5cdc2245a8b85385a2e7a62c/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.6.2] /home/ayoub/.gradle/caches/transforms-3/31f1701e60e64fd7585ecdb7c8e6d87b/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.8.0] /home/ayoub/.gradle/caches/transforms-3/02ca71ce2c996448a5ab87876c33ad0b/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.8.0] /home/ayoub/.gradle/caches/transforms-3/2575c98a4b457a95178d26c5b890e96f/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/ayoub/.gradle/caches/transforms-3/1585c4c2be2a8b3932e0e45525cfac7a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ayoub/.gradle/caches/transforms-3/decb13dd2ad18bd8f6487c30f06c05b4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ayoub/.gradle/caches/transforms-3/5885c23aba5cb82796b9c0bf2ff51458/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ayoub/.gradle/caches/transforms-3/c355f25d81538813abdab108d311b128/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ayoub/.gradle/caches/transforms-3/e71f9b1e35057f0915d3c9a825c8c055/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/ayoub/.gradle/caches/transforms-3/74e20ec8b4dbc976176201cdbf444a44/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ayoub/.gradle/caches/transforms-3/ad4f14a7a56b59156760a790f59a718d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dd0f8b6329ce41c6293f61ae8c3e0d7f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] /home/ayoub/.gradle/caches/transforms-3/f7554dde3be330bf02d20ce680e3f779/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/ayoub/.gradle/caches/transforms-3/b60ea8867dd138c0d65d9b8bba302358/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/ayoub/.gradle/caches/transforms-3/8e2a0ec1549d5aeda9cc3ad873005b60/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/b0ad881ce7ab57c840c2883e78cf5993/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/ayoub/.gradle/caches/transforms-3/d707f4eef00a4b9faf8ce74fd065d6a7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/5daed21069bcddd4a6c24ab4df2182e8/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8d378a1fa9e7c53e4f0ab69352d3878e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/ayoub/.gradle/caches/transforms-3/a63954b77b113f3ab16034653559761e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/ayoub/.gradle/caches/transforms-3/7e68857f7872f7a88fc7989efcc9ea1a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/ayoub/.gradle/caches/transforms-3/3d0eff38854f8867f38684c4abfa3d67/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/ayoub/.gradle/caches/transforms-3/dd8c2ae60b84ef895c92f6ab53ce95e0/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.9.0] /home/ayoub/.gradle/caches/transforms-3/3b7d5ddbf49819ed2b6ce824de93f896/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.transition:transition:1.4.1] /home/ayoub/.gradle/caches/transforms-3/5d8f502005c4b98f62cdf9bfa30fd377/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/ayoub/.gradle/caches/transforms-3/bda61a6850f0609d6dad074aaec36bed/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/b32e9f970cacb9a965abcdf957cf7f08/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/d97e8fb432f7f3c6b9c9a77b9d5800fc/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ayoub/.gradle/caches/transforms-3/9785e2caff9380ec13202caa3b9f1390/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/ayoub/.gradle/caches/transforms-3/294d34fd5e703b3c4038dbd695d4b394/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ayoub/.gradle/caches/transforms-3/49bff969c455936e768bb390ca623b14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/ayoub/.gradle/caches/transforms-3/4eec405a8f7367258930c1137e1a0518/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/ayoub/.gradle/caches/transforms-3/69db0314eab67f037d92e4c7a2d0b87b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ayoub/.gradle/caches/transforms-3/03a5b86cc1fd402926454247ee78e7c6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dbed63fe835b50be2d6d6e0d9c5a5918/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ayoub/.gradle/caches/transforms-3/6c1161375f9317274ba794e818ed8b11/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/ayoub/.gradle/caches/transforms-3/aa69e74e6b71c4e2a047d349c1ab89fa/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ayoub/.gradle/caches/transforms-3/565f1803cd8f9291da9de0e62830a9ff/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/85cab334715eedf22d0c58973c0b40e1/transformed/viewbinding-8.1.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/56180e7f2d8d4a7bbcebd10673fe0cec/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ab2896908f375375810125ab3b718272/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/06dea483ece1f301f4194e4c2198e44d/transformed/navigation-fragment-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f8ede61c14f3efc52a954167d100f848/transformed/navigation-ui-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/76587d9af8f89a3f682f6a92f8f0b178/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/0e3698758c3e71a5e264c923f8fd6baf/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8a2d0c17ae0d4587ffe2c815a3a6193e/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cae7bd2f74fae44421817076afcec558/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2e411c04c3f9fcb09bb1cb52804ff295/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d08b83858b065f932a1b18fb74aa9868/transformed/firebase-analytics-21.5.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/09c050fb6a50634af482ff89558debb3/transformed/play-services-measurement-sdk-21.5.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3332bb3dfc1f0f7085084fa42dc9d78/transformed/play-services-measurement-base-21.5.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/62f9f9c567d7a97fe6e267544d6fc086/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1c304993601e8f4540870b8408daddf3/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5bdc01e12534c502508fcb2dd5e87829/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5702686a482f2437240cd5d9f776e128/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5279d514a4820ab8dde86895ca4d2c0c/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a85a3247103d552f2780dd22df246ed5/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c4b77c7ea70be886e1492802961e4134/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d8b47bc9ffcd726e900c71a7b8641ea7/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/63304a6de1065d8945a656910b4d374b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3a0ce71cde215ee0a6b03a32bf72e9c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb040526ec19338ca95fa273cc1960ba/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6424bf910b8f93532c83bc1288f17f92/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cd781e4a28cac75e281e5305d739795e/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cbfb5560c7f73d97517e85cc8e5e4e00/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/23e92db7df48123a8c5eb81d2e8d0455/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c978c8818e4913dcda8b467e7a1a166d/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5647c25b2d97f6e90ea42ed4148cf918/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7f2b93c96c2dce7cb88f583b907004ff/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c0ba27383e031088742a917d08865cb2/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4c9d1cc224f4e2c27894804dd0b4b9e6/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7772b809677d0ae6da08ae45850fd572/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8ae0d3a69f0e21fb3733b19afc1006ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa658a2a96a90baaf09a3d8749e95e0c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/16c74fe1c41038dc6c3a8a9e6e1c461e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c4c27c5d787a94d38e121d4c2eb01f52/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/85eb33e38700bf02f68f6e47ae5be747/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a7aaa052796d59ced2bb3149ef865970/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6fb0614f2e95d39f2e65afd1f48973bd/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/614eb457d5997b687eabc8cbd4ec5506/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4bd03c1b9f154ff00f9de565667016f2/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/24dca10c59b85b3654dea0f90932b109/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/06753c3ba039a457858bb59fe1b8ed74/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c15ce06ecb72b81e992421eaee415364/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2fb56efa82dea366ccc166eb98e33f54/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa641ba8ab820622bab693aa47107c3a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/eec58b79826f475e872d1f02f6df64ff/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4dd72db96415232b2d27e0426d8a4b27/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2cdbeece9b9007eb756c8efd6c021585/transformed/firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fa7b044fe10c7b6848038bd062c148c6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/033b0d48f5a16561d42371f79269881d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/be7b84fd1fac0394de1b828adfc251f0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a42558d647f10b9d1d6ff06d98c98c7d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/89d4a5800844a889ae85bc5668cb7dc9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-25:19
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-25:19
-MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/9310a5132fd2c64f7392b1a6359e3f11/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/9310a5132fd2c64f7392b1a6359e3f11/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ayoub/.gradle/caches/transforms-3/4362fcb527871e718161f451f31cea78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ayoub/.gradle/caches/transforms-3/4362fcb527871e718161f451f31cea78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ayoub/.gradle/caches/transforms-3/49bff969c455936e768bb390ca623b14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ayoub/.gradle/caches/transforms-3/49bff969c455936e768bb390ca623b14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/76587d9af8f89a3f682f6a92f8f0b178/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/76587d9af8f89a3f682f6a92f8f0b178/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d08b83858b065f932a1b18fb74aa9868/transformed/firebase-analytics-21.5.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d08b83858b065f932a1b18fb74aa9868/transformed/firebase-analytics-21.5.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/09c050fb6a50634af482ff89558debb3/transformed/play-services-measurement-sdk-21.5.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/09c050fb6a50634af482ff89558debb3/transformed/play-services-measurement-sdk-21.5.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3332bb3dfc1f0f7085084fa42dc9d78/transformed/play-services-measurement-base-21.5.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3332bb3dfc1f0f7085084fa42dc9d78/transformed/play-services-measurement-base-21.5.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/62f9f9c567d7a97fe6e267544d6fc086/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/62f9f9c567d7a97fe6e267544d6fc086/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1c304993601e8f4540870b8408daddf3/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1c304993601e8f4540870b8408daddf3/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7f2b93c96c2dce7cb88f583b907004ff/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7f2b93c96c2dce7cb88f583b907004ff/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa641ba8ab820622bab693aa47107c3a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa641ba8ab820622bab693aa47107c3a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:13:9-46
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:7:9-65
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:7:9-65
 activity#com.example.fitswing.MainActivity
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:15:9-24:20
+ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:15:9-24:20
 	android:label
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:18:13-45
 	android:exported
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.1.4] /home/ayoub/.gradle/caches/transforms-3/36e488c366d3855ebb02043db4c048c4/transformed/viewbinding-8.1.4/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.1.4] /home/ayoub/.gradle/caches/transforms-3/36e488c366d3855ebb02043db4c048c4/transformed/viewbinding-8.1.4/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common:2.7.6] /home/ayoub/.gradle/caches/transforms-3/d516bdbadb7ed7984e815e1fc67f464d/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.7.6] /home/ayoub/.gradle/caches/transforms-3/d516bdbadb7ed7984e815e1fc67f464d/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/ayoub/.gradle/caches/transforms-3/e71d56c27a00d0d17c3ee14b1da7d998/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/ayoub/.gradle/caches/transforms-3/e71d56c27a00d0d17c3ee14b1da7d998/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.7.6] /home/ayoub/.gradle/caches/transforms-3/2cec87af6684ad085eccc0c8f22b134a/transformed/navigation-fragment-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.7.6] /home/ayoub/.gradle/caches/transforms-3/2cec87af6684ad085eccc0c8f22b134a/transformed/navigation-fragment-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.7.6] /home/ayoub/.gradle/caches/transforms-3/45c0f2900bf5ecb3ceb566cbd05e3175/transformed/navigation-ui-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.7.6] /home/ayoub/.gradle/caches/transforms-3/45c0f2900bf5ecb3ceb566cbd05e3175/transformed/navigation-ui-2.7.6/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/9310a5132fd2c64f7392b1a6359e3f11/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/9310a5132fd2c64f7392b1a6359e3f11/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ayoub/.gradle/caches/transforms-3/4362fcb527871e718161f451f31cea78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ayoub/.gradle/caches/transforms-3/4362fcb527871e718161f451f31cea78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ayoub/.gradle/caches/transforms-3/537928bf4dc080f90615255f79ea4704/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ayoub/.gradle/caches/transforms-3/537928bf4dc080f90615255f79ea4704/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ayoub/.gradle/caches/transforms-3/01cfbbf3c4486002f408b232e267f8d6/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ayoub/.gradle/caches/transforms-3/01cfbbf3c4486002f408b232e267f8d6/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/ayoub/.gradle/caches/transforms-3/3a9d8a3360fec84e88b43a5787f6d974/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/ayoub/.gradle/caches/transforms-3/3a9d8a3360fec84e88b43a5787f6d974/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dc5059771eaba673976e07ed51be7264/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dc5059771eaba673976e07ed51be7264/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] /home/ayoub/.gradle/caches/transforms-3/1155cc5d5cdc2245a8b85385a2e7a62c/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.2] /home/ayoub/.gradle/caches/transforms-3/1155cc5d5cdc2245a8b85385a2e7a62c/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.6.2] /home/ayoub/.gradle/caches/transforms-3/31f1701e60e64fd7585ecdb7c8e6d87b/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.6.2] /home/ayoub/.gradle/caches/transforms-3/31f1701e60e64fd7585ecdb7c8e6d87b/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.0] /home/ayoub/.gradle/caches/transforms-3/02ca71ce2c996448a5ab87876c33ad0b/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.0] /home/ayoub/.gradle/caches/transforms-3/02ca71ce2c996448a5ab87876c33ad0b/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.8.0] /home/ayoub/.gradle/caches/transforms-3/2575c98a4b457a95178d26c5b890e96f/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] /home/ayoub/.gradle/caches/transforms-3/2575c98a4b457a95178d26c5b890e96f/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/ayoub/.gradle/caches/transforms-3/1585c4c2be2a8b3932e0e45525cfac7a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/ayoub/.gradle/caches/transforms-3/1585c4c2be2a8b3932e0e45525cfac7a/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ayoub/.gradle/caches/transforms-3/decb13dd2ad18bd8f6487c30f06c05b4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ayoub/.gradle/caches/transforms-3/decb13dd2ad18bd8f6487c30f06c05b4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ayoub/.gradle/caches/transforms-3/5885c23aba5cb82796b9c0bf2ff51458/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ayoub/.gradle/caches/transforms-3/5885c23aba5cb82796b9c0bf2ff51458/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ayoub/.gradle/caches/transforms-3/c355f25d81538813abdab108d311b128/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ayoub/.gradle/caches/transforms-3/c355f25d81538813abdab108d311b128/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ayoub/.gradle/caches/transforms-3/e71f9b1e35057f0915d3c9a825c8c055/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ayoub/.gradle/caches/transforms-3/e71f9b1e35057f0915d3c9a825c8c055/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/ayoub/.gradle/caches/transforms-3/74e20ec8b4dbc976176201cdbf444a44/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/ayoub/.gradle/caches/transforms-3/74e20ec8b4dbc976176201cdbf444a44/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ayoub/.gradle/caches/transforms-3/ad4f14a7a56b59156760a790f59a718d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ayoub/.gradle/caches/transforms-3/ad4f14a7a56b59156760a790f59a718d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dd0f8b6329ce41c6293f61ae8c3e0d7f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dd0f8b6329ce41c6293f61ae8c3e0d7f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] /home/ayoub/.gradle/caches/transforms-3/f7554dde3be330bf02d20ce680e3f779/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/ayoub/.gradle/caches/transforms-3/f7554dde3be330bf02d20ce680e3f779/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/ayoub/.gradle/caches/transforms-3/b60ea8867dd138c0d65d9b8bba302358/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/ayoub/.gradle/caches/transforms-3/b60ea8867dd138c0d65d9b8bba302358/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/ayoub/.gradle/caches/transforms-3/8e2a0ec1549d5aeda9cc3ad873005b60/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/ayoub/.gradle/caches/transforms-3/8e2a0ec1549d5aeda9cc3ad873005b60/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/b0ad881ce7ab57c840c2883e78cf5993/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/b0ad881ce7ab57c840c2883e78cf5993/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/ayoub/.gradle/caches/transforms-3/d707f4eef00a4b9faf8ce74fd065d6a7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/ayoub/.gradle/caches/transforms-3/d707f4eef00a4b9faf8ce74fd065d6a7/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/5daed21069bcddd4a6c24ab4df2182e8/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/5daed21069bcddd4a6c24ab4df2182e8/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8d378a1fa9e7c53e4f0ab69352d3878e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8d378a1fa9e7c53e4f0ab69352d3878e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/ayoub/.gradle/caches/transforms-3/a63954b77b113f3ab16034653559761e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/ayoub/.gradle/caches/transforms-3/a63954b77b113f3ab16034653559761e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/ayoub/.gradle/caches/transforms-3/7e68857f7872f7a88fc7989efcc9ea1a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/ayoub/.gradle/caches/transforms-3/7e68857f7872f7a88fc7989efcc9ea1a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/ayoub/.gradle/caches/transforms-3/3d0eff38854f8867f38684c4abfa3d67/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/ayoub/.gradle/caches/transforms-3/3d0eff38854f8867f38684c4abfa3d67/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/ayoub/.gradle/caches/transforms-3/dd8c2ae60b84ef895c92f6ab53ce95e0/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/ayoub/.gradle/caches/transforms-3/dd8c2ae60b84ef895c92f6ab53ce95e0/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /home/ayoub/.gradle/caches/transforms-3/3b7d5ddbf49819ed2b6ce824de93f896/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /home/ayoub/.gradle/caches/transforms-3/3b7d5ddbf49819ed2b6ce824de93f896/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.4.1] /home/ayoub/.gradle/caches/transforms-3/5d8f502005c4b98f62cdf9bfa30fd377/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] /home/ayoub/.gradle/caches/transforms-3/5d8f502005c4b98f62cdf9bfa30fd377/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/ayoub/.gradle/caches/transforms-3/bda61a6850f0609d6dad074aaec36bed/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/ayoub/.gradle/caches/transforms-3/bda61a6850f0609d6dad074aaec36bed/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/b32e9f970cacb9a965abcdf957cf7f08/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/b32e9f970cacb9a965abcdf957cf7f08/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/d97e8fb432f7f3c6b9c9a77b9d5800fc/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/ayoub/.gradle/caches/transforms-3/d97e8fb432f7f3c6b9c9a77b9d5800fc/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ayoub/.gradle/caches/transforms-3/9785e2caff9380ec13202caa3b9f1390/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ayoub/.gradle/caches/transforms-3/9785e2caff9380ec13202caa3b9f1390/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/ayoub/.gradle/caches/transforms-3/294d34fd5e703b3c4038dbd695d4b394/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/ayoub/.gradle/caches/transforms-3/294d34fd5e703b3c4038dbd695d4b394/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ayoub/.gradle/caches/transforms-3/49bff969c455936e768bb390ca623b14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ayoub/.gradle/caches/transforms-3/49bff969c455936e768bb390ca623b14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/ayoub/.gradle/caches/transforms-3/4eec405a8f7367258930c1137e1a0518/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/ayoub/.gradle/caches/transforms-3/4eec405a8f7367258930c1137e1a0518/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/ayoub/.gradle/caches/transforms-3/69db0314eab67f037d92e4c7a2d0b87b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/ayoub/.gradle/caches/transforms-3/69db0314eab67f037d92e4c7a2d0b87b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ayoub/.gradle/caches/transforms-3/03a5b86cc1fd402926454247ee78e7c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ayoub/.gradle/caches/transforms-3/03a5b86cc1fd402926454247ee78e7c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dbed63fe835b50be2d6d6e0d9c5a5918/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ayoub/.gradle/caches/transforms-3/dbed63fe835b50be2d6d6e0d9c5a5918/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ayoub/.gradle/caches/transforms-3/6c1161375f9317274ba794e818ed8b11/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ayoub/.gradle/caches/transforms-3/6c1161375f9317274ba794e818ed8b11/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/ayoub/.gradle/caches/transforms-3/aa69e74e6b71c4e2a047d349c1ab89fa/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/ayoub/.gradle/caches/transforms-3/aa69e74e6b71c4e2a047d349c1ab89fa/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ayoub/.gradle/caches/transforms-3/565f1803cd8f9291da9de0e62830a9ff/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ayoub/.gradle/caches/transforms-3/565f1803cd8f9291da9de0e62830a9ff/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/85cab334715eedf22d0c58973c0b40e1/transformed/viewbinding-8.1.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/85cab334715eedf22d0c58973c0b40e1/transformed/viewbinding-8.1.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/56180e7f2d8d4a7bbcebd10673fe0cec/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/56180e7f2d8d4a7bbcebd10673fe0cec/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ab2896908f375375810125ab3b718272/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ab2896908f375375810125ab3b718272/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/06dea483ece1f301f4194e4c2198e44d/transformed/navigation-fragment-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/06dea483ece1f301f4194e4c2198e44d/transformed/navigation-fragment-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f8ede61c14f3efc52a954167d100f848/transformed/navigation-ui-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.6] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f8ede61c14f3efc52a954167d100f848/transformed/navigation-ui-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/76587d9af8f89a3f682f6a92f8f0b178/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/76587d9af8f89a3f682f6a92f8f0b178/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/0e3698758c3e71a5e264c923f8fd6baf/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/0e3698758c3e71a5e264c923f8fd6baf/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8a2d0c17ae0d4587ffe2c815a3a6193e/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8a2d0c17ae0d4587ffe2c815a3a6193e/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cae7bd2f74fae44421817076afcec558/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cae7bd2f74fae44421817076afcec558/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2e411c04c3f9fcb09bb1cb52804ff295/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2e411c04c3f9fcb09bb1cb52804ff295/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d08b83858b065f932a1b18fb74aa9868/transformed/firebase-analytics-21.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d08b83858b065f932a1b18fb74aa9868/transformed/firebase-analytics-21.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/09c050fb6a50634af482ff89558debb3/transformed/play-services-measurement-sdk-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/09c050fb6a50634af482ff89558debb3/transformed/play-services-measurement-sdk-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3332bb3dfc1f0f7085084fa42dc9d78/transformed/play-services-measurement-base-21.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3332bb3dfc1f0f7085084fa42dc9d78/transformed/play-services-measurement-base-21.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/62f9f9c567d7a97fe6e267544d6fc086/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/62f9f9c567d7a97fe6e267544d6fc086/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1c304993601e8f4540870b8408daddf3/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1c304993601e8f4540870b8408daddf3/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5bdc01e12534c502508fcb2dd5e87829/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5bdc01e12534c502508fcb2dd5e87829/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5702686a482f2437240cd5d9f776e128/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5702686a482f2437240cd5d9f776e128/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5279d514a4820ab8dde86895ca4d2c0c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5279d514a4820ab8dde86895ca4d2c0c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a85a3247103d552f2780dd22df246ed5/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a85a3247103d552f2780dd22df246ed5/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c4b77c7ea70be886e1492802961e4134/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c4b77c7ea70be886e1492802961e4134/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d8b47bc9ffcd726e900c71a7b8641ea7/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d8b47bc9ffcd726e900c71a7b8641ea7/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/63304a6de1065d8945a656910b4d374b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/63304a6de1065d8945a656910b4d374b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3a0ce71cde215ee0a6b03a32bf72e9c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b3a0ce71cde215ee0a6b03a32bf72e9c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb040526ec19338ca95fa273cc1960ba/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb040526ec19338ca95fa273cc1960ba/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6424bf910b8f93532c83bc1288f17f92/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6424bf910b8f93532c83bc1288f17f92/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cd781e4a28cac75e281e5305d739795e/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cd781e4a28cac75e281e5305d739795e/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cbfb5560c7f73d97517e85cc8e5e4e00/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cbfb5560c7f73d97517e85cc8e5e4e00/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/23e92db7df48123a8c5eb81d2e8d0455/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/23e92db7df48123a8c5eb81d2e8d0455/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c978c8818e4913dcda8b467e7a1a166d/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c978c8818e4913dcda8b467e7a1a166d/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5647c25b2d97f6e90ea42ed4148cf918/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5647c25b2d97f6e90ea42ed4148cf918/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7f2b93c96c2dce7cb88f583b907004ff/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7f2b93c96c2dce7cb88f583b907004ff/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c0ba27383e031088742a917d08865cb2/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c0ba27383e031088742a917d08865cb2/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4c9d1cc224f4e2c27894804dd0b4b9e6/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4c9d1cc224f4e2c27894804dd0b4b9e6/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7772b809677d0ae6da08ae45850fd572/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7772b809677d0ae6da08ae45850fd572/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8ae0d3a69f0e21fb3733b19afc1006ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8ae0d3a69f0e21fb3733b19afc1006ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa658a2a96a90baaf09a3d8749e95e0c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa658a2a96a90baaf09a3d8749e95e0c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/16c74fe1c41038dc6c3a8a9e6e1c461e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/16c74fe1c41038dc6c3a8a9e6e1c461e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c4c27c5d787a94d38e121d4c2eb01f52/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c4c27c5d787a94d38e121d4c2eb01f52/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/85eb33e38700bf02f68f6e47ae5be747/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/85eb33e38700bf02f68f6e47ae5be747/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a7aaa052796d59ced2bb3149ef865970/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a7aaa052796d59ced2bb3149ef865970/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6fb0614f2e95d39f2e65afd1f48973bd/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6fb0614f2e95d39f2e65afd1f48973bd/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.4.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/614eb457d5997b687eabc8cbd4ec5506/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/614eb457d5997b687eabc8cbd4ec5506/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4bd03c1b9f154ff00f9de565667016f2/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4bd03c1b9f154ff00f9de565667016f2/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/24dca10c59b85b3654dea0f90932b109/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/24dca10c59b85b3654dea0f90932b109/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/06753c3ba039a457858bb59fe1b8ed74/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/06753c3ba039a457858bb59fe1b8ed74/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c15ce06ecb72b81e992421eaee415364/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c15ce06ecb72b81e992421eaee415364/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2fb56efa82dea366ccc166eb98e33f54/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2fb56efa82dea366ccc166eb98e33f54/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa641ba8ab820622bab693aa47107c3a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/aa641ba8ab820622bab693aa47107c3a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/eec58b79826f475e872d1f02f6df64ff/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/eec58b79826f475e872d1f02f6df64ff/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4dd72db96415232b2d27e0426d8a4b27/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4dd72db96415232b2d27e0426d8a4b27/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2cdbeece9b9007eb756c8efd6c021585/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/2cdbeece9b9007eb756c8efd6c021585/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fa7b044fe10c7b6848038bd062c148c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fa7b044fe10c7b6848038bd062c148c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/033b0d48f5a16561d42371f79269881d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/033b0d48f5a16561d42371f79269881d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/be7b84fd1fac0394de1b828adfc251f0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/be7b84fd1fac0394de1b828adfc251f0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a42558d647f10b9d1d6ff06d98c98c7d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a42558d647f10b9d1d6ff06d98c98c7d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/89d4a5800844a889ae85bc5668cb7dc9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/89d4a5800844a889ae85bc5668cb7dc9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mahdiabdelmalek/git/FitSwing/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ayoub/.gradle/caches/transforms-3/64f0c95d7b551b1264271a9b934cbd8a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/186da450b65057d570c32defa2374215/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ayoub/.gradle/caches/transforms-3/7192e8896176d0134858d56a0a25b763/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3d67b747e1ba3cee29da4795a3b80bca/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fee3bcb0d1428160420dd1d7e83a789e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
-uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
-	android:required
-		ADDED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
-uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
-	android:required
-		ADDED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/f0fdaf4860474e4e8eb206fc69d47e40/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
-permission#com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
-uses-permission#com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/ayoub/.gradle/caches/transforms-3/caba9f8be4c832ea6558d94b2f3d267a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:42:13-37
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb1181f0b55c6e88368f30a2358bc29b/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cb24e2dfbd39c4a34dd889cf4ee32014/transformed/play-services-measurement-impl-21.5.1/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3276468d5ef6b6098a4e5ae862ce88f6/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/68ddc00211d864e337440af52caf58e8/transformed/play-services-measurement-sdk-api-21.5.1/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:31:13-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:36:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:35:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.1] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/70817d2d39ee14d46b0a786deb07d359/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7e7959a28bb7bc52f7e2457e2cab860b/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b463dfcbb40f7ea8deea39eceb632654/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/3f8b1ade2bdcf0d58238a52ff083e0e6/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ed4ac7108f21c4dda86521e4bde4491/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/c7942e9a126c38c6e9a38c14eb115877/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/22a5725cc8828ebf63d26fa927d88b18/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/673a7bdbddf5858c0b1acfaa95ce80a6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d7833b384aad2b05fab301d8d3955eb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
