@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-43:/layout/fragment_settings.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-46:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.fitswing.app-mergeDebugResources-43:/layout/fragment_activity.xml",
+        "source": "com.example.fitswing.app-main-46:/layout/fragment_activity.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-43:/layout/fragment_home.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-43:/layout/fragment_notifications.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-46:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-43:/layout/fragment_progress.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-46:/layout/fragment_progress.xml"
+    }
+]
