@@ -19,10 +19,10 @@
         tools:layout="@layout/fragment_progress" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.fitswing.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_activity"
+        android:name="com.example.fitswing.ui.activity.ActivityFragment"
+        android:label="@string/title_activity"
+        tools:layout="@layout/fragment_activity" />
 
     <fragment
         android:id="@+id/navigation_settings"
