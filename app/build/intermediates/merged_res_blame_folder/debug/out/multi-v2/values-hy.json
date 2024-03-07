@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitswing.app-mergeDebugResources-48:/values-hy/values-hy.xml",
+            "outputFile": "com.example.fitswing.app-mergeDebugResources-49:/values-hy/values-hy.xml",
             "map": [
                 {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/res/values-hy/values.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/res/values-hy/values-hy.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "146",
-                        "endOffsets": "341"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "41",
+                        "startLines": "105",
                         "startColumns": "4",
-                        "startOffsets": "3742",
-                        "endColumns": "150",
-                        "endOffsets": "3888"
+                        "startOffsets": "9018",
+                        "endColumns": "100",
+                        "endOffsets": "9114"
                     }
                 },
                 {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/res/values-hy/values-hy.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/res/values-hy/values-hy.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f8ede61c14f3efc52a954167d100f848/transformed/navigation-ui-2.7.6/res/values-hy/values-hy.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/1f0ec9a9ddb42c149d4c3f6f20482c29/transformed/play-services-basement-18.1.0/res/values-hy/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "146",
+                        "endOffsets": "341"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "3742",
+                        "endColumns": "150",
+                        "endOffsets": "3888"
+                    }
+                },
+                {
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/f8ede61c14f3efc52a954167d100f848/transformed/navigation-ui-2.7.6/res/values-hy/values-hy.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -57,24 +74,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fb2c6ca2bebf3f5e85afdef370c400eb/transformed/core-1.9.0/res/values-hy/values-hy.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "105",
-                        "startColumns": "4",
-                        "startOffsets": "9018",
-                        "endColumns": "100",
-                        "endOffsets": "9114"
-                    }
-                },
-                {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/res/values-hy/values-hy.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/res/values-hy/values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

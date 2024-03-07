@@ -4,6 +4,8 @@ package com.example.fitswing.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -11,6 +13,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.fitswing.R;
+import com.mikhaellopez.circularprogressbar.CircularProgressBar;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,11 +23,34 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textHome;
+  public final CircularProgressBar circularProgressBar;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textHome) {
+  @NonNull
+  public final LinearLayout linearLayout;
+
+  @NonNull
+  public final ImageButton notificationButton;
+
+  @NonNull
+  public final ImageButton userIcon;
+
+  @NonNull
+  public final TextView usernameTextView;
+
+  @NonNull
+  public final TextView usernameTextView2;
+
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView,
+      @NonNull CircularProgressBar circularProgressBar, @NonNull LinearLayout linearLayout,
+      @NonNull ImageButton notificationButton, @NonNull ImageButton userIcon,
+      @NonNull TextView usernameTextView, @NonNull TextView usernameTextView2) {
     this.rootView = rootView;
-    this.textHome = textHome;
+    this.circularProgressBar = circularProgressBar;
+    this.linearLayout = linearLayout;
+    this.notificationButton = notificationButton;
+    this.userIcon = userIcon;
+    this.usernameTextView = usernameTextView;
+    this.usernameTextView2 = usernameTextView2;
   }
 
   @Override
@@ -54,13 +80,44 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_home;
-      TextView textHome = ViewBindings.findChildViewById(rootView, id);
-      if (textHome == null) {
+      id = R.id.circularProgressBar;
+      CircularProgressBar circularProgressBar = ViewBindings.findChildViewById(rootView, id);
+      if (circularProgressBar == null) {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, textHome);
+      id = R.id.linearLayout;
+      LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout == null) {
+        break missingId;
+      }
+
+      id = R.id.notificationButton;
+      ImageButton notificationButton = ViewBindings.findChildViewById(rootView, id);
+      if (notificationButton == null) {
+        break missingId;
+      }
+
+      id = R.id.userIcon;
+      ImageButton userIcon = ViewBindings.findChildViewById(rootView, id);
+      if (userIcon == null) {
+        break missingId;
+      }
+
+      id = R.id.usernameTextView;
+      TextView usernameTextView = ViewBindings.findChildViewById(rootView, id);
+      if (usernameTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.usernameTextView2;
+      TextView usernameTextView2 = ViewBindings.findChildViewById(rootView, id);
+      if (usernameTextView2 == null) {
+        break missingId;
+      }
+
+      return new FragmentHomeBinding((ConstraintLayout) rootView, circularProgressBar, linearLayout,
+          notificationButton, userIcon, usernameTextView, usernameTextView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

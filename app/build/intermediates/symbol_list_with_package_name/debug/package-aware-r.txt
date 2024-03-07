@@ -440,6 +440,22 @@ attr counterOverflowTextAppearance
 attr counterOverflowTextColor
 attr counterTextAppearance
 attr counterTextColor
+attr cpb_background_progressbar_color
+attr cpb_background_progressbar_color_direction
+attr cpb_background_progressbar_color_end
+attr cpb_background_progressbar_color_start
+attr cpb_background_progressbar_width
+attr cpb_indeterminate_mode
+attr cpb_progress
+attr cpb_progress_direction
+attr cpb_progress_max
+attr cpb_progressbar_color
+attr cpb_progressbar_color_direction
+attr cpb_progressbar_color_end
+attr cpb_progressbar_color_start
+attr cpb_progressbar_width
+attr cpb_round_border
+attr cpb_start_angle
 attr crossfade
 attr currentState
 attr cursorColor
@@ -2237,6 +2253,8 @@ dimen compat_control_corner_material
 dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
 dimen def_drawer_elevation
+dimen default_background_stroke_width
+dimen default_stroke_width
 dimen design_appbar_elevation
 dimen design_bottom_navigation_active_item_max_width
 dimen design_bottom_navigation_active_item_min_width
@@ -3050,8 +3068,10 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_notification
 drawable ic_search_black_24
 drawable ic_setting_black_24dp
+drawable ic_user
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3221,6 +3241,7 @@ id beginning
 id bestChoice
 id blocking
 id bottom
+id bottom_to_top
 id bounce
 id bounceBoth
 id bounceEnd
@@ -3242,6 +3263,7 @@ id checkbox
 id checked
 id chronometer
 id circle_center
+id circularProgressBar
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -3359,10 +3381,12 @@ id labeled
 id layout
 id left
 id leftToRight
+id left_to_right
 id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id locale
@@ -3451,6 +3475,7 @@ id noState
 id none
 id normal
 id north
+id notificationButton
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -3500,6 +3525,7 @@ id right
 id rightToLeft
 id right_icon
 id right_side
+id right_to_left
 id rounded
 id row_index_key
 id rtl
@@ -3587,9 +3613,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id text_activity
-id text_home
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3605,9 +3629,12 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id to_left
+id to_right
 id toggle
 id top
 id topPanel
+id top_to_bottom
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -3622,6 +3649,9 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userIcon
+id usernameTextView
+id usernameTextView2
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -5169,6 +5199,7 @@ styleable Carousel carousel_alignment carousel_backwardTransition carousel_empty
 styleable CheckedTextView android_checkMark checkMarkCompat checkMarkTint checkMarkTintMode
 styleable Chip android_textAppearance android_textSize android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircularProgressBar cpb_background_progressbar_color cpb_background_progressbar_color_direction cpb_background_progressbar_color_end cpb_background_progressbar_color_start cpb_background_progressbar_width cpb_indeterminate_mode cpb_progress cpb_progress_direction cpb_progress_max cpb_progressbar_color cpb_progressbar_color_direction cpb_progressbar_color_end cpb_progressbar_color_start cpb_progressbar_width cpb_round_border cpb_start_angle
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize

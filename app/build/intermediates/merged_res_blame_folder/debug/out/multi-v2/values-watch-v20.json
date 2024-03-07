@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitswing.app-mergeDebugResources-48:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.fitswing.app-mergeDebugResources-49:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
