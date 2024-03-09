@@ -3151,6 +3151,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id Layout
 id META
 id NO_DEBUG
 id SHIFT
@@ -3631,6 +3632,7 @@ id titleDividerNoCustom
 id title_template
 id to_left
 id to_right
+id todayDate
 id toggle
 id top
 id topPanel

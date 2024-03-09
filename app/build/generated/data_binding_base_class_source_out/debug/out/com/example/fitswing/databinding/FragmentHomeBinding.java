@@ -23,6 +23,9 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final LinearLayout Layout;
+
+  @NonNull
   public final CircularProgressBar circularProgressBar;
 
   @NonNull
@@ -30,6 +33,9 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   @NonNull
   public final ImageButton notificationButton;
+
+  @NonNull
+  public final TextView todayDate;
 
   @NonNull
   public final ImageButton userIcon;
@@ -40,14 +46,17 @@ public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   public final TextView usernameTextView2;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView,
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull LinearLayout Layout,
       @NonNull CircularProgressBar circularProgressBar, @NonNull LinearLayout linearLayout,
-      @NonNull ImageButton notificationButton, @NonNull ImageButton userIcon,
-      @NonNull TextView usernameTextView, @NonNull TextView usernameTextView2) {
+      @NonNull ImageButton notificationButton, @NonNull TextView todayDate,
+      @NonNull ImageButton userIcon, @NonNull TextView usernameTextView,
+      @NonNull TextView usernameTextView2) {
     this.rootView = rootView;
+    this.Layout = Layout;
     this.circularProgressBar = circularProgressBar;
     this.linearLayout = linearLayout;
     this.notificationButton = notificationButton;
+    this.todayDate = todayDate;
     this.userIcon = userIcon;
     this.usernameTextView = usernameTextView;
     this.usernameTextView2 = usernameTextView2;
@@ -80,6 +89,12 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.Layout;
+      LinearLayout Layout = ViewBindings.findChildViewById(rootView, id);
+      if (Layout == null) {
+        break missingId;
+      }
+
       id = R.id.circularProgressBar;
       CircularProgressBar circularProgressBar = ViewBindings.findChildViewById(rootView, id);
       if (circularProgressBar == null) {
@@ -95,6 +110,12 @@ public final class FragmentHomeBinding implements ViewBinding {
       id = R.id.notificationButton;
       ImageButton notificationButton = ViewBindings.findChildViewById(rootView, id);
       if (notificationButton == null) {
+        break missingId;
+      }
+
+      id = R.id.todayDate;
+      TextView todayDate = ViewBindings.findChildViewById(rootView, id);
+      if (todayDate == null) {
         break missingId;
       }
 
@@ -116,8 +137,9 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, circularProgressBar, linearLayout,
-          notificationButton, userIcon, usernameTextView, usernameTextView2);
+      return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, circularProgressBar,
+          linearLayout, notificationButton, todayDate, userIcon, usernameTextView,
+          usernameTextView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

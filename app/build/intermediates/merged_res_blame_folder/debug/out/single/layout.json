@@ -1,22 +1,26 @@
 [
     {
-        "merged": "com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_activity.xml",
-        "source": "com.example.fitswing.app-main-53:/layout/fragment_activity.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_activity.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-53:/layout/fragment_activity.xml"
     },
     {
-        "merged": "com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_settings.xml",
-        "source": "com.example.fitswing.app-main-53:/layout/fragment_settings.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_progress.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-53:/layout/fragment_progress.xml"
     },
     {
-        "merged": "com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_progress.xml",
-        "source": "com.example.fitswing.app-main-53:/layout/fragment_progress.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_home.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-53:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_home.xml",
-        "source": "com.example.fitswing.app-main-53:/layout/fragment_home.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-53:/layout/activity_main.xml"
     },
     {
         "merged": "com.example.fitswing.app-mergeDebugResources-50:/layout/activity_main.xml",
         "source": "com.example.fitswing.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-50:/layout/fragment_settings.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-53:/layout/fragment_settings.xml"
     }
 ]

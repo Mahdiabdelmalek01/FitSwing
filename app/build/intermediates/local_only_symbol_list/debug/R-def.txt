@@ -17,6 +17,7 @@ drawable ic_launcher_foreground
 drawable ic_notification
 drawable ic_setting_black_24dp
 drawable ic_user
+id Layout
 id circularProgressBar
 id container
 id linearLayout
@@ -31,6 +32,7 @@ id notificationButton
 id text_activity
 id text_progress
 id text_setting
+id todayDate
 id userIcon
 id usernameTextView
 id usernameTextView2

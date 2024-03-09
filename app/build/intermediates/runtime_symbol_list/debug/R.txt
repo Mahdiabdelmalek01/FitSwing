@@ -3150,6 +3150,7 @@ int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
 int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
+int id Layout 0x7f08020f
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
 int id SHIFT 0x7f080007
@@ -3630,6 +3631,7 @@ int id titleDividerNoCustom 0x7f0801dd
 int id title_template 0x7f0801de
 int id to_left 0x7f08020b
 int id to_right 0x7f08020c
+int id todayDate 0x7f08020e
 int id toggle 0x7f0801df
 int id top 0x7f0801e0
 int id topPanel 0x7f0801e1

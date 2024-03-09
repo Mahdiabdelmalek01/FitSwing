@@ -16,7 +16,10 @@ private ActivityMainBinding binding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        // this if statement hides the actionBar
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().hide();
+        }
      binding = ActivityMainBinding.inflate(getLayoutInflater());
      setContentView(binding.getRoot());
 
