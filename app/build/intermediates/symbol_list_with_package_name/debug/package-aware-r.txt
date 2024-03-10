@@ -3047,11 +3047,15 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable calories
+drawable custom_shape
+drawable custom_shape2
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable fire
 drawable ic_action_name
 drawable ic_activity_black_24dp
 drawable ic_arrow_back_black_24
@@ -3143,6 +3147,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable shape1
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3152,6 +3157,7 @@ id BOTTOM_START
 id CTRL
 id FUNCTION
 id Layout
+id Layout2
 id META
 id NO_DEBUG
 id SHIFT
@@ -3516,6 +3522,7 @@ id position
 id postLayout
 id pressed
 id progress_circular
+id progress_frame
 id progress_horizontal
 id radio
 id ratio
@@ -3614,11 +3621,15 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id text_accumulating
 id text_activity
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_on_to_progress
 id text_progress
+id text_progress_percentage
 id text_setting
 id textinput_counter
 id textinput_error
@@ -3871,8 +3882,10 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu bottom_nav_menu
+mipmap ic_banner
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap shape
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 raw firebase_common_keep

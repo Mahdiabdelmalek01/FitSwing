@@ -4,6 +4,7 @@ package com.example.fitswing.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -26,6 +27,9 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final LinearLayout Layout;
 
   @NonNull
+  public final LinearLayout Layout2;
+
+  @NonNull
   public final CircularProgressBar circularProgressBar;
 
   @NonNull
@@ -33,6 +37,21 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   @NonNull
   public final ImageButton notificationButton;
+
+  @NonNull
+  public final FrameLayout progressFrame;
+
+  @NonNull
+  public final TextView textAccumulating;
+
+  @NonNull
+  public final TextView textOnToProgress;
+
+  @NonNull
+  public final TextView textProgressPercentage;
+
+  @NonNull
+  public final TextView textView;
 
   @NonNull
   public final TextView todayDate;
@@ -47,15 +66,23 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView usernameTextView2;
 
   private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull LinearLayout Layout,
-      @NonNull CircularProgressBar circularProgressBar, @NonNull LinearLayout linearLayout,
-      @NonNull ImageButton notificationButton, @NonNull TextView todayDate,
-      @NonNull ImageButton userIcon, @NonNull TextView usernameTextView,
-      @NonNull TextView usernameTextView2) {
+      @NonNull LinearLayout Layout2, @NonNull CircularProgressBar circularProgressBar,
+      @NonNull LinearLayout linearLayout, @NonNull ImageButton notificationButton,
+      @NonNull FrameLayout progressFrame, @NonNull TextView textAccumulating,
+      @NonNull TextView textOnToProgress, @NonNull TextView textProgressPercentage,
+      @NonNull TextView textView, @NonNull TextView todayDate, @NonNull ImageButton userIcon,
+      @NonNull TextView usernameTextView, @NonNull TextView usernameTextView2) {
     this.rootView = rootView;
     this.Layout = Layout;
+    this.Layout2 = Layout2;
     this.circularProgressBar = circularProgressBar;
     this.linearLayout = linearLayout;
     this.notificationButton = notificationButton;
+    this.progressFrame = progressFrame;
+    this.textAccumulating = textAccumulating;
+    this.textOnToProgress = textOnToProgress;
+    this.textProgressPercentage = textProgressPercentage;
+    this.textView = textView;
     this.todayDate = todayDate;
     this.userIcon = userIcon;
     this.usernameTextView = usernameTextView;
@@ -95,6 +122,12 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.Layout2;
+      LinearLayout Layout2 = ViewBindings.findChildViewById(rootView, id);
+      if (Layout2 == null) {
+        break missingId;
+      }
+
       id = R.id.circularProgressBar;
       CircularProgressBar circularProgressBar = ViewBindings.findChildViewById(rootView, id);
       if (circularProgressBar == null) {
@@ -110,6 +143,36 @@ public final class FragmentHomeBinding implements ViewBinding {
       id = R.id.notificationButton;
       ImageButton notificationButton = ViewBindings.findChildViewById(rootView, id);
       if (notificationButton == null) {
+        break missingId;
+      }
+
+      id = R.id.progress_frame;
+      FrameLayout progressFrame = ViewBindings.findChildViewById(rootView, id);
+      if (progressFrame == null) {
+        break missingId;
+      }
+
+      id = R.id.text_accumulating;
+      TextView textAccumulating = ViewBindings.findChildViewById(rootView, id);
+      if (textAccumulating == null) {
+        break missingId;
+      }
+
+      id = R.id.text_on_to_progress;
+      TextView textOnToProgress = ViewBindings.findChildViewById(rootView, id);
+      if (textOnToProgress == null) {
+        break missingId;
+      }
+
+      id = R.id.text_progress_percentage;
+      TextView textProgressPercentage = ViewBindings.findChildViewById(rootView, id);
+      if (textProgressPercentage == null) {
+        break missingId;
+      }
+
+      id = R.id.textView;
+      TextView textView = ViewBindings.findChildViewById(rootView, id);
+      if (textView == null) {
         break missingId;
       }
 
@@ -137,8 +200,9 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, circularProgressBar,
-          linearLayout, notificationButton, todayDate, userIcon, usernameTextView,
+      return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, Layout2,
+          circularProgressBar, linearLayout, notificationButton, progressFrame, textAccumulating,
+          textOnToProgress, textProgressPercentage, textView, todayDate, userIcon, usernameTextView,
           usernameTextView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
