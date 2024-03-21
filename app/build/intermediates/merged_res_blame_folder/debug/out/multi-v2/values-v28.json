@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitswing.app-mergeDebugResources-49:/values-v28/values-v28.xml",
+            "outputFile": "com.example.fitswing.app-mergeDebugResources-73:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/home/ayoub/.gradle/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/res/values-v28/values-v28.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/a0dbfe6067925fd6440ae78d01aeeb5d/transformed/material-1.11.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/ayoub/.gradle/caches/transforms-3/27c61cbd35ef64d897dd5217f03b3270/transformed/appcompat-1.6.1/res/values-v28/values-v28.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

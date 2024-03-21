@@ -384,17 +384,12 @@
                         android:id="@+id/titleChallenge1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Drink 1K of Water"
+                        android:text="Drink 1L of water"
                         android:textColor="@color/white"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
-                    <TextView
-                        android:id="@+id/descriptionChallenge1"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Activity Description"
-                        android:textSize="14sp" />
+
 
                 </LinearLayout>
 
@@ -419,17 +414,12 @@
                         android:id="@+id/titleChallenge2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Dont forget to Stretch"
+                        android:text="Dont forget to stretch"
                         android:textColor="@color/white"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
-                    <TextView
-                        android:id="@+id/descriptionChallenge2"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Activity Description"
-                        android:textSize="14sp" />
+
 
                 </LinearLayout>
 
@@ -454,18 +444,10 @@
                         android:id="@+id/titleChallenge3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Keep a Healthy diet"
+                        android:text="Keep a healthy diet"
                         android:textColor="@color/white"
                         android:textSize="18sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:id="@+id/descriptionChallenge3"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Activity Description"
-                        android:textSize="14sp" />
-
+                        android:textStyle="bold"/>
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>

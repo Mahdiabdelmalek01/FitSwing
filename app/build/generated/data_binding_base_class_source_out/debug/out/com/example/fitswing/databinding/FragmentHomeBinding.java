@@ -34,15 +34,6 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final CircularProgressBar circularProgressBar;
 
   @NonNull
-  public final TextView descriptionChallenge1;
-
-  @NonNull
-  public final TextView descriptionChallenge2;
-
-  @NonNull
-  public final TextView descriptionChallenge3;
-
-  @NonNull
   public final TextView descriptionTextView;
 
   @NonNull
@@ -113,10 +104,8 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull LinearLayout Layout,
       @NonNull LinearLayout Layout2, @NonNull CircularProgressBar circularProgressBar,
-      @NonNull TextView descriptionChallenge1, @NonNull TextView descriptionChallenge2,
-      @NonNull TextView descriptionChallenge3, @NonNull TextView descriptionTextView,
-      @NonNull TextView descriptionTextView1, @NonNull TextView descriptionTextView3,
-      @NonNull HorizontalScrollView horizontalScrollView,
+      @NonNull TextView descriptionTextView, @NonNull TextView descriptionTextView1,
+      @NonNull TextView descriptionTextView3, @NonNull HorizontalScrollView horizontalScrollView,
       @NonNull HorizontalScrollView horizontalScrollView2, @NonNull LinearLayout linearLayout,
       @NonNull ImageButton notificationButton, @NonNull FrameLayout progressFrame,
       @NonNull TextView textAccumulating, @NonNull TextView textOnToProgress,
@@ -130,9 +119,6 @@ public final class FragmentHomeBinding implements ViewBinding {
     this.Layout = Layout;
     this.Layout2 = Layout2;
     this.circularProgressBar = circularProgressBar;
-    this.descriptionChallenge1 = descriptionChallenge1;
-    this.descriptionChallenge2 = descriptionChallenge2;
-    this.descriptionChallenge3 = descriptionChallenge3;
     this.descriptionTextView = descriptionTextView;
     this.descriptionTextView1 = descriptionTextView1;
     this.descriptionTextView3 = descriptionTextView3;
@@ -200,24 +186,6 @@ public final class FragmentHomeBinding implements ViewBinding {
       id = R.id.circularProgressBar;
       CircularProgressBar circularProgressBar = ViewBindings.findChildViewById(rootView, id);
       if (circularProgressBar == null) {
-        break missingId;
-      }
-
-      id = R.id.descriptionChallenge1;
-      TextView descriptionChallenge1 = ViewBindings.findChildViewById(rootView, id);
-      if (descriptionChallenge1 == null) {
-        break missingId;
-      }
-
-      id = R.id.descriptionChallenge2;
-      TextView descriptionChallenge2 = ViewBindings.findChildViewById(rootView, id);
-      if (descriptionChallenge2 == null) {
-        break missingId;
-      }
-
-      id = R.id.descriptionChallenge3;
-      TextView descriptionChallenge3 = ViewBindings.findChildViewById(rootView, id);
-      if (descriptionChallenge3 == null) {
         break missingId;
       }
 
@@ -360,12 +328,11 @@ public final class FragmentHomeBinding implements ViewBinding {
       }
 
       return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, Layout2,
-          circularProgressBar, descriptionChallenge1, descriptionChallenge2, descriptionChallenge3,
-          descriptionTextView, descriptionTextView1, descriptionTextView3, horizontalScrollView,
-          horizontalScrollView2, linearLayout, notificationButton, progressFrame, textAccumulating,
-          textOnToProgress, textProgressPercentage, textView, textView2, titleChallenge1,
-          titleChallenge2, titleChallenge3, titleTextView, titleTextView1, titleTextView3,
-          todayDate, userIcon, usernameTextView, usernameTextView2);
+          circularProgressBar, descriptionTextView, descriptionTextView1, descriptionTextView3,
+          horizontalScrollView, horizontalScrollView2, linearLayout, notificationButton,
+          progressFrame, textAccumulating, textOnToProgress, textProgressPercentage, textView,
+          textView2, titleChallenge1, titleChallenge2, titleChallenge3, titleTextView,
+          titleTextView1, titleTextView3, todayDate, userIcon, usernameTextView, usernameTextView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

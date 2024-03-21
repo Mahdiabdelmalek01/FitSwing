@@ -4,6 +4,7 @@ package com.example.fitswing.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Switch;
 import android.widget.TextView;
@@ -21,6 +22,9 @@ import java.lang.String;
 public final class FragmentSettingsBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
+
+  @NonNull
+  public final CardView cardView;
 
   @NonNull
   public final Switch darkModeSwitch;
@@ -44,6 +48,9 @@ public final class FragmentSettingsBinding implements ViewBinding {
   public final TextView settingsTitleTextView;
 
   @NonNull
+  public final Button signoutbtn;
+
+  @NonNull
   public final CardView userName;
 
   @NonNull
@@ -55,14 +62,15 @@ public final class FragmentSettingsBinding implements ViewBinding {
   @NonNull
   public final TextView usernameTextView;
 
-  private FragmentSettingsBinding(@NonNull ConstraintLayout rootView,
+  private FragmentSettingsBinding(@NonNull ConstraintLayout rootView, @NonNull CardView cardView,
       @NonNull Switch darkModeSwitch, @NonNull TextView darkModeTextView,
       @NonNull Switch notificationSwitch, @NonNull TextView notificationTextView,
       @NonNull TextView settingsTextView, @NonNull TextView settingsTextView2,
-      @NonNull TextView settingsTitleTextView, @NonNull CardView userName,
-      @NonNull ImageView userPhotoImageView, @NonNull TextView userTextView2,
-      @NonNull TextView usernameTextView) {
+      @NonNull TextView settingsTitleTextView, @NonNull Button signoutbtn,
+      @NonNull CardView userName, @NonNull ImageView userPhotoImageView,
+      @NonNull TextView userTextView2, @NonNull TextView usernameTextView) {
     this.rootView = rootView;
+    this.cardView = cardView;
     this.darkModeSwitch = darkModeSwitch;
     this.darkModeTextView = darkModeTextView;
     this.notificationSwitch = notificationSwitch;
@@ -70,6 +78,7 @@ public final class FragmentSettingsBinding implements ViewBinding {
     this.settingsTextView = settingsTextView;
     this.settingsTextView2 = settingsTextView2;
     this.settingsTitleTextView = settingsTitleTextView;
+    this.signoutbtn = signoutbtn;
     this.userName = userName;
     this.userPhotoImageView = userPhotoImageView;
     this.userTextView2 = userTextView2;
@@ -103,6 +112,12 @@ public final class FragmentSettingsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.cardView;
+      CardView cardView = ViewBindings.findChildViewById(rootView, id);
+      if (cardView == null) {
+        break missingId;
+      }
+
       id = R.id.darkModeSwitch;
       Switch darkModeSwitch = ViewBindings.findChildViewById(rootView, id);
       if (darkModeSwitch == null) {
@@ -145,6 +160,12 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.signoutbtn;
+      Button signoutbtn = ViewBindings.findChildViewById(rootView, id);
+      if (signoutbtn == null) {
+        break missingId;
+      }
+
       id = R.id.user_name;
       CardView userName = ViewBindings.findChildViewById(rootView, id);
       if (userName == null) {
@@ -169,10 +190,10 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentSettingsBinding((ConstraintLayout) rootView, darkModeSwitch,
+      return new FragmentSettingsBinding((ConstraintLayout) rootView, cardView, darkModeSwitch,
           darkModeTextView, notificationSwitch, notificationTextView, settingsTextView,
-          settingsTextView2, settingsTitleTextView, userName, userPhotoImageView, userTextView2,
-          usernameTextView);
+          settingsTextView2, settingsTitleTextView, signoutbtn, userName, userPhotoImageView,
+          userTextView2, usernameTextView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
