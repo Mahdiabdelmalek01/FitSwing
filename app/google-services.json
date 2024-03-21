@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170839142238",
+    "project_id": "fitswing-6ea90",
+    "storage_bucket": "fitswing-6ea90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170839142238:android:5832c5c2f6a13d6d5769cf",
+        "android_client_info": {
+          "package_name": "com.example.fitswing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkku14BgCWNCgh4Q8l5h0Nsv4PCXupdtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
