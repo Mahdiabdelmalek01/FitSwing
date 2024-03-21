@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitswing.app-mergeDebugResources-49:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.example.fitswing.app-mergeDebugResources-73:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/home/ayoub/.gradle/caches/transforms-3/fb82abe9d1b534f63cbcca306ae3b118/transformed/material-1.11.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/a0dbfe6067925fd6440ae78d01aeeb5d/transformed/material-1.11.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

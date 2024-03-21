@@ -24,9 +24,6 @@ public final class FragmentSettingsBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button button;
-
-  @NonNull
   public final CardView cardView;
 
   @NonNull
@@ -51,6 +48,9 @@ public final class FragmentSettingsBinding implements ViewBinding {
   public final TextView settingsTitleTextView;
 
   @NonNull
+  public final Button signoutbtn;
+
+  @NonNull
   public final CardView userName;
 
   @NonNull
@@ -62,15 +62,14 @@ public final class FragmentSettingsBinding implements ViewBinding {
   @NonNull
   public final TextView usernameTextView;
 
-  private FragmentSettingsBinding(@NonNull ConstraintLayout rootView, @NonNull Button button,
-      @NonNull CardView cardView, @NonNull Switch darkModeSwitch,
-      @NonNull TextView darkModeTextView, @NonNull Switch notificationSwitch,
-      @NonNull TextView notificationTextView, @NonNull TextView settingsTextView,
-      @NonNull TextView settingsTextView2, @NonNull TextView settingsTitleTextView,
+  private FragmentSettingsBinding(@NonNull ConstraintLayout rootView, @NonNull CardView cardView,
+      @NonNull Switch darkModeSwitch, @NonNull TextView darkModeTextView,
+      @NonNull Switch notificationSwitch, @NonNull TextView notificationTextView,
+      @NonNull TextView settingsTextView, @NonNull TextView settingsTextView2,
+      @NonNull TextView settingsTitleTextView, @NonNull Button signoutbtn,
       @NonNull CardView userName, @NonNull ImageView userPhotoImageView,
       @NonNull TextView userTextView2, @NonNull TextView usernameTextView) {
     this.rootView = rootView;
-    this.button = button;
     this.cardView = cardView;
     this.darkModeSwitch = darkModeSwitch;
     this.darkModeTextView = darkModeTextView;
@@ -79,6 +78,7 @@ public final class FragmentSettingsBinding implements ViewBinding {
     this.settingsTextView = settingsTextView;
     this.settingsTextView2 = settingsTextView2;
     this.settingsTitleTextView = settingsTitleTextView;
+    this.signoutbtn = signoutbtn;
     this.userName = userName;
     this.userPhotoImageView = userPhotoImageView;
     this.userTextView2 = userTextView2;
@@ -112,12 +112,6 @@ public final class FragmentSettingsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.button;
-      Button button = ViewBindings.findChildViewById(rootView, id);
-      if (button == null) {
-        break missingId;
-      }
-
       id = R.id.cardView;
       CardView cardView = ViewBindings.findChildViewById(rootView, id);
       if (cardView == null) {
@@ -166,6 +160,12 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.signoutbtn;
+      Button signoutbtn = ViewBindings.findChildViewById(rootView, id);
+      if (signoutbtn == null) {
+        break missingId;
+      }
+
       id = R.id.user_name;
       CardView userName = ViewBindings.findChildViewById(rootView, id);
       if (userName == null) {
@@ -190,9 +190,9 @@ public final class FragmentSettingsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentSettingsBinding((ConstraintLayout) rootView, button, cardView,
-          darkModeSwitch, darkModeTextView, notificationSwitch, notificationTextView,
-          settingsTextView, settingsTextView2, settingsTitleTextView, userName, userPhotoImageView,
+      return new FragmentSettingsBinding((ConstraintLayout) rootView, cardView, darkModeSwitch,
+          darkModeTextView, notificationSwitch, notificationTextView, settingsTextView,
+          settingsTextView2, settingsTitleTextView, signoutbtn, userName, userPhotoImageView,
           userTextView2, usernameTextView);
     }
     String missingId = rootView.getResources().getResourceName(id);

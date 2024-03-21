@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.cardview.widget.CardView;
@@ -22,25 +23,33 @@ public final class LoginPageBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button buttonLogin;
+  public final Button btnlogin;
 
   @NonNull
   public final CardView cardView;
 
   @NonNull
-  public final EditText editTextPassword;
+  public final TextView lnkRegister;
 
   @NonNull
-  public final EditText editTextUsername;
+  public final TextView loginText;
 
-  private LoginPageBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonLogin,
-      @NonNull CardView cardView, @NonNull EditText editTextPassword,
-      @NonNull EditText editTextUsername) {
+  @NonNull
+  public final EditText txtEmail;
+
+  @NonNull
+  public final EditText txtPwd;
+
+  private LoginPageBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnlogin,
+      @NonNull CardView cardView, @NonNull TextView lnkRegister, @NonNull TextView loginText,
+      @NonNull EditText txtEmail, @NonNull EditText txtPwd) {
     this.rootView = rootView;
-    this.buttonLogin = buttonLogin;
+    this.btnlogin = btnlogin;
     this.cardView = cardView;
-    this.editTextPassword = editTextPassword;
-    this.editTextUsername = editTextUsername;
+    this.lnkRegister = lnkRegister;
+    this.loginText = loginText;
+    this.txtEmail = txtEmail;
+    this.txtPwd = txtPwd;
   }
 
   @Override
@@ -70,9 +79,9 @@ public final class LoginPageBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.buttonLogin;
-      Button buttonLogin = ViewBindings.findChildViewById(rootView, id);
-      if (buttonLogin == null) {
+      id = R.id.btnlogin;
+      Button btnlogin = ViewBindings.findChildViewById(rootView, id);
+      if (btnlogin == null) {
         break missingId;
       }
 
@@ -82,20 +91,32 @@ public final class LoginPageBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.editTextPassword;
-      EditText editTextPassword = ViewBindings.findChildViewById(rootView, id);
-      if (editTextPassword == null) {
+      id = R.id.lnkRegister;
+      TextView lnkRegister = ViewBindings.findChildViewById(rootView, id);
+      if (lnkRegister == null) {
         break missingId;
       }
 
-      id = R.id.editTextUsername;
-      EditText editTextUsername = ViewBindings.findChildViewById(rootView, id);
-      if (editTextUsername == null) {
+      id = R.id.loginText;
+      TextView loginText = ViewBindings.findChildViewById(rootView, id);
+      if (loginText == null) {
         break missingId;
       }
 
-      return new LoginPageBinding((ConstraintLayout) rootView, buttonLogin, cardView,
-          editTextPassword, editTextUsername);
+      id = R.id.txtEmail;
+      EditText txtEmail = ViewBindings.findChildViewById(rootView, id);
+      if (txtEmail == null) {
+        break missingId;
+      }
+
+      id = R.id.txtPwd;
+      EditText txtPwd = ViewBindings.findChildViewById(rootView, id);
+      if (txtPwd == null) {
+        break missingId;
+      }
+
+      return new LoginPageBinding((ConstraintLayout) rootView, btnlogin, cardView, lnkRegister,
+          loginText, txtEmail, txtPwd);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
