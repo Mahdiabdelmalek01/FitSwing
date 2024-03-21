@@ -3048,6 +3048,7 @@ int drawable btn_radio_off_to_on_mtrl_animation 0x7f070080
 int drawable btn_radio_on_mtrl 0x7f070081
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f070082
 int drawable calories 0x7f070083
+int drawable corners 0x7f0700ee
 int drawable custom_shape 0x7f070084
 int drawable custom_shape2 0x7f070085
 int drawable delete 0x7f0700ec
@@ -3258,11 +3259,14 @@ int id bounce 0x7f080062
 int id bounceBoth 0x7f080063
 int id bounceEnd 0x7f080064
 int id bounceStart 0x7f080065
+int id button 0x7f080235
+int id buttonLogin 0x7f080237
 int id buttonPanel 0x7f080066
 int id cache_measures 0x7f080067
 int id callMeasure 0x7f080068
 int id caloriesBurned 0x7f080232
 int id cancel_button 0x7f080069
+int id cardView 0x7f080236
 int id carryVelocity 0x7f08006a
 int id center 0x7f08006b
 int id centerCrop 0x7f08006c
@@ -3309,9 +3313,6 @@ int id decor_content_parent 0x7f080091
 int id default_activity_button 0x7f080092
 int id deltaRelative 0x7f080093
 int id dependency_ordering 0x7f080094
-int id descriptionChallenge1 0x7f080225
-int id descriptionChallenge2 0x7f080226
-int id descriptionChallenge3 0x7f080227
 int id descriptionTextView 0x7f080095
 int id descriptionTextView1 0x7f080096
 int id descriptionTextView3 0x7f080097
@@ -3343,6 +3344,8 @@ int id easeOut 0x7f0800b0
 int id east 0x7f0800b1
 int id edge 0x7f0800b2
 int id editBtn 0x7f080234
+int id editTextPassword 0x7f080238
+int id editTextUsername 0x7f080239
 int id edit_query 0x7f0800b3
 int id elastic 0x7f0800b4
 int id embed 0x7f0800b5
@@ -3852,6 +3855,7 @@ int layout fragment_activity 0x7f0b002d
 int layout fragment_home 0x7f0b002e
 int layout fragment_progress 0x7f0b002f
 int layout fragment_settings 0x7f0b0030
+int layout login_page 0x7f0b006e
 int layout m3_alert_dialog 0x7f0b0031
 int layout m3_alert_dialog_actions 0x7f0b0032
 int layout m3_alert_dialog_title 0x7f0b0033

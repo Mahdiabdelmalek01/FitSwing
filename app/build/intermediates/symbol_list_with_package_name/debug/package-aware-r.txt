@@ -3049,6 +3049,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable calories
+drawable corners
 drawable custom_shape
 drawable custom_shape2
 drawable delete
@@ -3259,11 +3260,14 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
+id buttonLogin
 id buttonPanel
 id cache_measures
 id callMeasure
 id caloriesBurned
 id cancel_button
+id cardView
 id carryVelocity
 id center
 id centerCrop
@@ -3310,9 +3314,6 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
-id descriptionChallenge1
-id descriptionChallenge2
-id descriptionChallenge3
 id descriptionTextView
 id descriptionTextView1
 id descriptionTextView3
@@ -3344,6 +3345,8 @@ id easeOut
 id east
 id edge
 id editBtn
+id editTextPassword
+id editTextUsername
 id edit_query
 id elastic
 id embed
@@ -3853,6 +3856,7 @@ layout fragment_activity
 layout fragment_home
 layout fragment_progress
 layout fragment_settings
+layout login_page
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
