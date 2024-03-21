@@ -33,6 +33,7 @@ private FragmentSettingsBinding binding;
             FirebaseAuth.getInstance().signOut();
             Intent intent = new Intent(getActivity(), login.class);
             startActivity(intent);
+            getActivity().finish();
         }
     });
         return root;

@@ -37,6 +37,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.FitSwing" >
         <activity
+            android:name="com.example.fitswing.ui.add_activity"
+            android:exported="false" />
+        <activity
             android:name="com.example.fitswing.ui.setup"
             android:exported="false" />
         <activity

@@ -71,6 +71,7 @@ id settingsTextView
 id settingsTextView2
 id settingsTitleTextView
 id signoutbtn
+id textDate
 id textView
 id textView2
 id text_accumulating
@@ -84,7 +85,9 @@ id titleTextView
 id titleTextView1
 id titleTextView3
 id todayDate
+id txtCalories
 id txtConfirmPassword
+id txtDescription
 id txtEmail
 id txtName
 id txtPassword
@@ -96,6 +99,7 @@ id user_name
 id usernameTextView
 id usernameTextView2
 id weight
+layout activity_add
 layout activity_login
 layout activity_main
 layout activity_register
@@ -104,9 +108,6 @@ layout fragment_activity
 layout fragment_home
 layout fragment_progress
 layout fragment_settings
-layout login_page
-layout signup_page
-layout user_info
 menu bottom_nav_menu
 mipmap ic_banner
 mipmap ic_launcher

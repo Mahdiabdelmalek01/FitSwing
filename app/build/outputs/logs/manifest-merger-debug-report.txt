@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [androidx.databinding:viewbinding:8.1.4] /home/ayoub/.gradle/caches/transforms-3/2d249ccc17108b105c355de869f14d1a/transformed/viewbinding-8.1.4/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.6] /home/ayoub/.gradle/caches/transforms-3/bbab51b70efdbe081c9344c07d8e60af/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/ayoub/.gradle/caches/transforms-3/f8ffbfef59f912877757bc0846f35f0a/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
@@ -123,8 +123,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ayoub/.gra
 	xmlns:android
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-34:19
-INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-34:19
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-37:19
+INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-37:19
 MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/a0dbfe6067925fd6440ae78d01aeeb5d/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /home/ayoub/.gradle/caches/transforms-3/a0dbfe6067925fd6440ae78d01aeeb5d/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:28:5-73:19
@@ -211,42 +211,48 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ayoub
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:7:9-65
-activity#com.example.fitswing.ui.setup
+activity#com.example.fitswing.ui.add_activity
 ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:16:13-37
-activity#com.example.fitswing.ui.register
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:16:13-44
+activity#com.example.fitswing.ui.setup
 ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:19:13-40
-activity#com.example.fitswing.ui.login
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:19:13-37
+activity#com.example.fitswing.ui.register
 ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:22:13-37
-activity#com.example.fitswing.MainActivity
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:24:9-33:20
-	android:label
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:22:13-40
+activity#com.example.fitswing.ui.login
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:24:9-26:40
 	android:exported
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:26:13-36
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:25:13-41
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:25:13-37
+activity#com.example.fitswing.MainActivity
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:30:13-45
+	android:exported
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml

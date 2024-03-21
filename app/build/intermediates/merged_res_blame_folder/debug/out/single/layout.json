@@ -1,27 +1,23 @@
 [
     {
-        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/signup_page.xml",
-        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/signup_page.xml"
-    },
-    {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_progress.xml",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/signup_page.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/signup_page.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_login.xml",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_settings.xml",
-        "source": "com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_settings.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_setup.xml",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_setup.xml"
-    },
-    {
-        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_settings.xml",
-        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_activity.xml",
@@ -46,5 +42,9 @@
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/login_page.xml",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/login_page.xml"
+    },
+    {
+        "merged": "com.example.fitswing.app-mergeDebugResources-74:/layout/activity_add.xml",
+        "source": "com.example.fitswing.app-main-77:/layout/activity_add.xml"
     }
 ]
