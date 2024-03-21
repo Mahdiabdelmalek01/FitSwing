@@ -3722,7 +3722,6 @@ id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id text
 id text2
-id textDate
 id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
@@ -3771,6 +3770,7 @@ id transition_transform
 id triangle
 id txtCalories
 id txtConfirmPassword
+id txtDate
 id txtDescription
 id txtEmail
 id txtName

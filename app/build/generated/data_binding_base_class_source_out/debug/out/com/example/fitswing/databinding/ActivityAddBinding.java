@@ -28,10 +28,10 @@ public final class ActivityAddBinding implements ViewBinding {
   public final CardView cardView;
 
   @NonNull
-  public final EditText textDate;
+  public final EditText txtCalories;
 
   @NonNull
-  public final EditText txtCalories;
+  public final EditText txtDate;
 
   @NonNull
   public final EditText txtDescription;
@@ -40,13 +40,13 @@ public final class ActivityAddBinding implements ViewBinding {
   public final EditText txtName;
 
   private ActivityAddBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnRegister,
-      @NonNull CardView cardView, @NonNull EditText textDate, @NonNull EditText txtCalories,
+      @NonNull CardView cardView, @NonNull EditText txtCalories, @NonNull EditText txtDate,
       @NonNull EditText txtDescription, @NonNull EditText txtName) {
     this.rootView = rootView;
     this.btnRegister = btnRegister;
     this.cardView = cardView;
-    this.textDate = textDate;
     this.txtCalories = txtCalories;
+    this.txtDate = txtDate;
     this.txtDescription = txtDescription;
     this.txtName = txtName;
   }
@@ -90,15 +90,15 @@ public final class ActivityAddBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textDate;
-      EditText textDate = ViewBindings.findChildViewById(rootView, id);
-      if (textDate == null) {
-        break missingId;
-      }
-
       id = R.id.txtCalories;
       EditText txtCalories = ViewBindings.findChildViewById(rootView, id);
       if (txtCalories == null) {
+        break missingId;
+      }
+
+      id = R.id.txtDate;
+      EditText txtDate = ViewBindings.findChildViewById(rootView, id);
+      if (txtDate == null) {
         break missingId;
       }
 
@@ -114,8 +114,8 @@ public final class ActivityAddBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityAddBinding((ConstraintLayout) rootView, btnRegister, cardView, textDate,
-          txtCalories, txtDescription, txtName);
+      return new ActivityAddBinding((ConstraintLayout) rootView, btnRegister, cardView, txtCalories,
+          txtDate, txtDescription, txtName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

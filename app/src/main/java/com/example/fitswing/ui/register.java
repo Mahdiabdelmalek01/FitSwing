@@ -87,8 +87,6 @@ public class register extends AppCompatActivity {
                         DatabaseReference myRef = database.getReference("users");
                         FirebaseUser user = mAuth.getCurrentUser();
                         String userid = user.getUid();
-                        Log.w("UserID", "UserID "+userid);
-
                         myRef.child(userid).setValue(usr);
                         Intent intent = new Intent(register.this, login.class);
                         startActivity(intent);

@@ -71,7 +71,6 @@ id settingsTextView
 id settingsTextView2
 id settingsTitleTextView
 id signoutbtn
-id textDate
 id textView
 id textView2
 id text_accumulating
@@ -87,6 +86,7 @@ id titleTextView3
 id todayDate
 id txtCalories
 id txtConfirmPassword
+id txtDate
 id txtDescription
 id txtEmail
 id txtName

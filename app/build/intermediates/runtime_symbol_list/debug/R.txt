@@ -3721,7 +3721,6 @@ int id tag_unhandled_key_listeners 0x7f0801fc
 int id tag_window_insets_animation_callback 0x7f0801fd
 int id text 0x7f0801fe
 int id text2 0x7f0801ff
-int id textDate 0x7f080254
 int id textEnd 0x7f080200
 int id textSpacerNoButtons 0x7f080201
 int id textSpacerNoTitle 0x7f080202
@@ -3770,6 +3769,7 @@ int id transition_transform 0x7f08022c
 int id triangle 0x7f08022d
 int id txtCalories 0x7f080255
 int id txtConfirmPassword 0x7f08022e
+int id txtDate 0x7f080257
 int id txtDescription 0x7f080256
 int id txtEmail 0x7f08022f
 int id txtName 0x7f080230

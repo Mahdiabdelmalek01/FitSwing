@@ -16,6 +16,10 @@
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/fire.png"
     },
     {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_add.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_add.xml"
+    },
+    {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_progress.xml.flat",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
     },

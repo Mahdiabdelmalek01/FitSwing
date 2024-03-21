@@ -1,9 +1,11 @@
 package com.example.fitswing.ui.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -13,12 +15,13 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.example.fitswing.R;
 import com.example.fitswing.databinding.FragmentActivityBinding;
+import com.example.fitswing.ui.add_activity;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.tabs.TabLayout;
 
 public class ActivityFragment extends Fragment {
 
 private FragmentActivityBinding binding;
-
     public View onCreateView(@NonNull LayoutInflater inflater,
             ViewGroup container, Bundle savedInstanceState) {
         ActivityViewModel activityViewModel =
@@ -26,7 +29,14 @@ private FragmentActivityBinding binding;
 
     binding = FragmentActivityBinding.inflate(inflater, container, false);
     View root = binding.getRoot();
-
+        FloatingActionButton addBtn = binding.fab;
+    addBtn.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Intent intent = new Intent(getActivity(), add_activity.class);
+            startActivity(intent);
+        }
+    });
         return root;
     }
 

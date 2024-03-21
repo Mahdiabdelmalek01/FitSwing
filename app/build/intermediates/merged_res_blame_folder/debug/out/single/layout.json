@@ -32,6 +32,10 @@
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/user_info.xml"
     },
     {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_add.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_add.xml"
+    },
+    {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_register.xml",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_register.xml"
     },
