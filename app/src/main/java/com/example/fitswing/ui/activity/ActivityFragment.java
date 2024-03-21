@@ -8,8 +8,12 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
+import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;
 
+import com.example.fitswing.R;
 import com.example.fitswing.databinding.FragmentActivityBinding;
+import com.google.android.material.tabs.TabLayout;
 
 public class ActivityFragment extends Fragment {
 
@@ -23,8 +27,6 @@ private FragmentActivityBinding binding;
     binding = FragmentActivityBinding.inflate(inflater, container, false);
     View root = binding.getRoot();
 
-        final TextView textView = binding.textActivity;
-        activityViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

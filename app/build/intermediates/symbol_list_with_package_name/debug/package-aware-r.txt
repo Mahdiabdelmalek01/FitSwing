@@ -3039,6 +3039,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -3050,11 +3051,13 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable calories
 drawable custom_shape
 drawable custom_shape2
+drawable delete
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edit
 drawable fire
 drawable ic_action_name
 drawable ic_activity_black_24dp
@@ -3147,6 +3150,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable plus
 drawable shape1
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -3222,6 +3226,8 @@ id action_mode_bar_stub
 id action_mode_close_button
 id action_text
 id actions
+id activityDuration
+id activityTitle
 id activity_chooser_view_content
 id add
 id alertTitle
@@ -3256,6 +3262,7 @@ id bounceStart
 id buttonPanel
 id cache_measures
 id callMeasure
+id caloriesBurned
 id cancel_button
 id carryVelocity
 id center
@@ -3277,6 +3284,7 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id completedCheckbox
 id compress
 id confirm_button
 id constraint
@@ -3293,6 +3301,8 @@ id currentState
 id custom
 id customPanel
 id cut
+id darkModeSwitch
+id darkModeTextView
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3300,6 +3310,12 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id descriptionChallenge1
+id descriptionChallenge2
+id descriptionChallenge3
+id descriptionTextView
+id descriptionTextView1
+id descriptionTextView3
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3327,6 +3343,7 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editBtn
 id edit_query
 id elastic
 id embed
@@ -3337,6 +3354,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fade
 id fill
 id fill_horizontal
@@ -3367,6 +3385,8 @@ id hideable
 id home
 id homeAsUp
 id honorRequest
+id horizontalScrollView
+id horizontalScrollView2
 id horizontal_only
 id icon
 id icon_group
@@ -3483,6 +3503,8 @@ id none
 id normal
 id north
 id notificationButton
+id notificationSwitch
+id notificationTextView
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -3560,6 +3582,9 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id settingsTextView
+id settingsTextView2
+id settingsTitleTextView
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3622,15 +3647,14 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
 id text_accumulating
-id text_activity
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
 id text_on_to_progress
 id text_progress
 id text_progress_percentage
-id text_setting
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3639,7 +3663,13 @@ id textinput_prefix_text
 id textinput_suffix_text
 id time
 id title
+id titleChallenge1
+id titleChallenge2
+id titleChallenge3
 id titleDividerNoCustom
+id titleTextView
+id titleTextView1
+id titleTextView3
 id title_template
 id to_left
 id to_right
@@ -3663,6 +3693,9 @@ id unlabeled
 id up
 id useLogo
 id userIcon
+id userPhotoImageView
+id userTextView2
+id user_name
 id usernameTextView
 id usernameTextView2
 id vertical_only

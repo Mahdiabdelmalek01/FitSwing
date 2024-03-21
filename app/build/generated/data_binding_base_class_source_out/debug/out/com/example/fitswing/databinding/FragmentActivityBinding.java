@@ -4,6 +4,8 @@ package com.example.fitswing.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -11,6 +13,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.fitswing.R;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,12 +23,34 @@ public final class FragmentActivityBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textActivity;
+  public final TextView activityDuration;
+
+  @NonNull
+  public final TextView activityTitle;
+
+  @NonNull
+  public final TextView caloriesBurned;
+
+  @NonNull
+  public final CheckBox completedCheckbox;
+
+  @NonNull
+  public final ImageView editBtn;
+
+  @NonNull
+  public final FloatingActionButton fab;
 
   private FragmentActivityBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textActivity) {
+      @NonNull TextView activityDuration, @NonNull TextView activityTitle,
+      @NonNull TextView caloriesBurned, @NonNull CheckBox completedCheckbox,
+      @NonNull ImageView editBtn, @NonNull FloatingActionButton fab) {
     this.rootView = rootView;
-    this.textActivity = textActivity;
+    this.activityDuration = activityDuration;
+    this.activityTitle = activityTitle;
+    this.caloriesBurned = caloriesBurned;
+    this.completedCheckbox = completedCheckbox;
+    this.editBtn = editBtn;
+    this.fab = fab;
   }
 
   @Override
@@ -55,13 +80,44 @@ public final class FragmentActivityBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_activity;
-      TextView textActivity = ViewBindings.findChildViewById(rootView, id);
-      if (textActivity == null) {
+      id = R.id.activityDuration;
+      TextView activityDuration = ViewBindings.findChildViewById(rootView, id);
+      if (activityDuration == null) {
         break missingId;
       }
 
-      return new FragmentActivityBinding((ConstraintLayout) rootView, textActivity);
+      id = R.id.activityTitle;
+      TextView activityTitle = ViewBindings.findChildViewById(rootView, id);
+      if (activityTitle == null) {
+        break missingId;
+      }
+
+      id = R.id.caloriesBurned;
+      TextView caloriesBurned = ViewBindings.findChildViewById(rootView, id);
+      if (caloriesBurned == null) {
+        break missingId;
+      }
+
+      id = R.id.completedCheckbox;
+      CheckBox completedCheckbox = ViewBindings.findChildViewById(rootView, id);
+      if (completedCheckbox == null) {
+        break missingId;
+      }
+
+      id = R.id.editBtn;
+      ImageView editBtn = ViewBindings.findChildViewById(rootView, id);
+      if (editBtn == null) {
+        break missingId;
+      }
+
+      id = R.id.fab;
+      FloatingActionButton fab = ViewBindings.findChildViewById(rootView, id);
+      if (fab == null) {
+        break missingId;
+      }
+
+      return new FragmentActivityBinding((ConstraintLayout) rootView, activityDuration,
+          activityTitle, caloriesBurned, completedCheckbox, editBtn, fab);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.HorizontalScrollView;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -33,6 +34,30 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final CircularProgressBar circularProgressBar;
 
   @NonNull
+  public final TextView descriptionChallenge1;
+
+  @NonNull
+  public final TextView descriptionChallenge2;
+
+  @NonNull
+  public final TextView descriptionChallenge3;
+
+  @NonNull
+  public final TextView descriptionTextView;
+
+  @NonNull
+  public final TextView descriptionTextView1;
+
+  @NonNull
+  public final TextView descriptionTextView3;
+
+  @NonNull
+  public final HorizontalScrollView horizontalScrollView;
+
+  @NonNull
+  public final HorizontalScrollView horizontalScrollView2;
+
+  @NonNull
   public final LinearLayout linearLayout;
 
   @NonNull
@@ -54,6 +79,27 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView textView;
 
   @NonNull
+  public final TextView textView2;
+
+  @NonNull
+  public final TextView titleChallenge1;
+
+  @NonNull
+  public final TextView titleChallenge2;
+
+  @NonNull
+  public final TextView titleChallenge3;
+
+  @NonNull
+  public final TextView titleTextView;
+
+  @NonNull
+  public final TextView titleTextView1;
+
+  @NonNull
+  public final TextView titleTextView3;
+
+  @NonNull
   public final TextView todayDate;
 
   @NonNull
@@ -67,15 +113,31 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull LinearLayout Layout,
       @NonNull LinearLayout Layout2, @NonNull CircularProgressBar circularProgressBar,
-      @NonNull LinearLayout linearLayout, @NonNull ImageButton notificationButton,
-      @NonNull FrameLayout progressFrame, @NonNull TextView textAccumulating,
-      @NonNull TextView textOnToProgress, @NonNull TextView textProgressPercentage,
-      @NonNull TextView textView, @NonNull TextView todayDate, @NonNull ImageButton userIcon,
+      @NonNull TextView descriptionChallenge1, @NonNull TextView descriptionChallenge2,
+      @NonNull TextView descriptionChallenge3, @NonNull TextView descriptionTextView,
+      @NonNull TextView descriptionTextView1, @NonNull TextView descriptionTextView3,
+      @NonNull HorizontalScrollView horizontalScrollView,
+      @NonNull HorizontalScrollView horizontalScrollView2, @NonNull LinearLayout linearLayout,
+      @NonNull ImageButton notificationButton, @NonNull FrameLayout progressFrame,
+      @NonNull TextView textAccumulating, @NonNull TextView textOnToProgress,
+      @NonNull TextView textProgressPercentage, @NonNull TextView textView,
+      @NonNull TextView textView2, @NonNull TextView titleChallenge1,
+      @NonNull TextView titleChallenge2, @NonNull TextView titleChallenge3,
+      @NonNull TextView titleTextView, @NonNull TextView titleTextView1,
+      @NonNull TextView titleTextView3, @NonNull TextView todayDate, @NonNull ImageButton userIcon,
       @NonNull TextView usernameTextView, @NonNull TextView usernameTextView2) {
     this.rootView = rootView;
     this.Layout = Layout;
     this.Layout2 = Layout2;
     this.circularProgressBar = circularProgressBar;
+    this.descriptionChallenge1 = descriptionChallenge1;
+    this.descriptionChallenge2 = descriptionChallenge2;
+    this.descriptionChallenge3 = descriptionChallenge3;
+    this.descriptionTextView = descriptionTextView;
+    this.descriptionTextView1 = descriptionTextView1;
+    this.descriptionTextView3 = descriptionTextView3;
+    this.horizontalScrollView = horizontalScrollView;
+    this.horizontalScrollView2 = horizontalScrollView2;
     this.linearLayout = linearLayout;
     this.notificationButton = notificationButton;
     this.progressFrame = progressFrame;
@@ -83,6 +145,13 @@ public final class FragmentHomeBinding implements ViewBinding {
     this.textOnToProgress = textOnToProgress;
     this.textProgressPercentage = textProgressPercentage;
     this.textView = textView;
+    this.textView2 = textView2;
+    this.titleChallenge1 = titleChallenge1;
+    this.titleChallenge2 = titleChallenge2;
+    this.titleChallenge3 = titleChallenge3;
+    this.titleTextView = titleTextView;
+    this.titleTextView1 = titleTextView1;
+    this.titleTextView3 = titleTextView3;
     this.todayDate = todayDate;
     this.userIcon = userIcon;
     this.usernameTextView = usernameTextView;
@@ -134,6 +203,54 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.descriptionChallenge1;
+      TextView descriptionChallenge1 = ViewBindings.findChildViewById(rootView, id);
+      if (descriptionChallenge1 == null) {
+        break missingId;
+      }
+
+      id = R.id.descriptionChallenge2;
+      TextView descriptionChallenge2 = ViewBindings.findChildViewById(rootView, id);
+      if (descriptionChallenge2 == null) {
+        break missingId;
+      }
+
+      id = R.id.descriptionChallenge3;
+      TextView descriptionChallenge3 = ViewBindings.findChildViewById(rootView, id);
+      if (descriptionChallenge3 == null) {
+        break missingId;
+      }
+
+      id = R.id.descriptionTextView;
+      TextView descriptionTextView = ViewBindings.findChildViewById(rootView, id);
+      if (descriptionTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.descriptionTextView1;
+      TextView descriptionTextView1 = ViewBindings.findChildViewById(rootView, id);
+      if (descriptionTextView1 == null) {
+        break missingId;
+      }
+
+      id = R.id.descriptionTextView3;
+      TextView descriptionTextView3 = ViewBindings.findChildViewById(rootView, id);
+      if (descriptionTextView3 == null) {
+        break missingId;
+      }
+
+      id = R.id.horizontalScrollView;
+      HorizontalScrollView horizontalScrollView = ViewBindings.findChildViewById(rootView, id);
+      if (horizontalScrollView == null) {
+        break missingId;
+      }
+
+      id = R.id.horizontalScrollView2;
+      HorizontalScrollView horizontalScrollView2 = ViewBindings.findChildViewById(rootView, id);
+      if (horizontalScrollView2 == null) {
+        break missingId;
+      }
+
       id = R.id.linearLayout;
       LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
       if (linearLayout == null) {
@@ -176,6 +293,48 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.textView2;
+      TextView textView2 = ViewBindings.findChildViewById(rootView, id);
+      if (textView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.titleChallenge1;
+      TextView titleChallenge1 = ViewBindings.findChildViewById(rootView, id);
+      if (titleChallenge1 == null) {
+        break missingId;
+      }
+
+      id = R.id.titleChallenge2;
+      TextView titleChallenge2 = ViewBindings.findChildViewById(rootView, id);
+      if (titleChallenge2 == null) {
+        break missingId;
+      }
+
+      id = R.id.titleChallenge3;
+      TextView titleChallenge3 = ViewBindings.findChildViewById(rootView, id);
+      if (titleChallenge3 == null) {
+        break missingId;
+      }
+
+      id = R.id.titleTextView;
+      TextView titleTextView = ViewBindings.findChildViewById(rootView, id);
+      if (titleTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.titleTextView1;
+      TextView titleTextView1 = ViewBindings.findChildViewById(rootView, id);
+      if (titleTextView1 == null) {
+        break missingId;
+      }
+
+      id = R.id.titleTextView3;
+      TextView titleTextView3 = ViewBindings.findChildViewById(rootView, id);
+      if (titleTextView3 == null) {
+        break missingId;
+      }
+
       id = R.id.todayDate;
       TextView todayDate = ViewBindings.findChildViewById(rootView, id);
       if (todayDate == null) {
@@ -201,9 +360,12 @@ public final class FragmentHomeBinding implements ViewBinding {
       }
 
       return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, Layout2,
-          circularProgressBar, linearLayout, notificationButton, progressFrame, textAccumulating,
-          textOnToProgress, textProgressPercentage, textView, todayDate, userIcon, usernameTextView,
-          usernameTextView2);
+          circularProgressBar, descriptionChallenge1, descriptionChallenge2, descriptionChallenge3,
+          descriptionTextView, descriptionTextView1, descriptionTextView3, horizontalScrollView,
+          horizontalScrollView2, linearLayout, notificationButton, progressFrame, textAccumulating,
+          textOnToProgress, textProgressPercentage, textView, textView2, titleChallenge1,
+          titleChallenge2, titleChallenge3, titleTextView, titleTextView1, titleTextView3,
+          todayDate, userIcon, usernameTextView, usernameTextView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

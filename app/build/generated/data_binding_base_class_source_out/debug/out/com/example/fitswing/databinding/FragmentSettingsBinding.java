@@ -4,9 +4,12 @@ package com.example.fitswing.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.Switch;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -20,12 +23,57 @@ public final class FragmentSettingsBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textSetting;
+  public final Switch darkModeSwitch;
+
+  @NonNull
+  public final TextView darkModeTextView;
+
+  @NonNull
+  public final Switch notificationSwitch;
+
+  @NonNull
+  public final TextView notificationTextView;
+
+  @NonNull
+  public final TextView settingsTextView;
+
+  @NonNull
+  public final TextView settingsTextView2;
+
+  @NonNull
+  public final TextView settingsTitleTextView;
+
+  @NonNull
+  public final CardView userName;
+
+  @NonNull
+  public final ImageView userPhotoImageView;
+
+  @NonNull
+  public final TextView userTextView2;
+
+  @NonNull
+  public final TextView usernameTextView;
 
   private FragmentSettingsBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textSetting) {
+      @NonNull Switch darkModeSwitch, @NonNull TextView darkModeTextView,
+      @NonNull Switch notificationSwitch, @NonNull TextView notificationTextView,
+      @NonNull TextView settingsTextView, @NonNull TextView settingsTextView2,
+      @NonNull TextView settingsTitleTextView, @NonNull CardView userName,
+      @NonNull ImageView userPhotoImageView, @NonNull TextView userTextView2,
+      @NonNull TextView usernameTextView) {
     this.rootView = rootView;
-    this.textSetting = textSetting;
+    this.darkModeSwitch = darkModeSwitch;
+    this.darkModeTextView = darkModeTextView;
+    this.notificationSwitch = notificationSwitch;
+    this.notificationTextView = notificationTextView;
+    this.settingsTextView = settingsTextView;
+    this.settingsTextView2 = settingsTextView2;
+    this.settingsTitleTextView = settingsTitleTextView;
+    this.userName = userName;
+    this.userPhotoImageView = userPhotoImageView;
+    this.userTextView2 = userTextView2;
+    this.usernameTextView = usernameTextView;
   }
 
   @Override
@@ -55,13 +103,76 @@ public final class FragmentSettingsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.text_setting;
-      TextView textSetting = ViewBindings.findChildViewById(rootView, id);
-      if (textSetting == null) {
+      id = R.id.darkModeSwitch;
+      Switch darkModeSwitch = ViewBindings.findChildViewById(rootView, id);
+      if (darkModeSwitch == null) {
         break missingId;
       }
 
-      return new FragmentSettingsBinding((ConstraintLayout) rootView, textSetting);
+      id = R.id.darkModeTextView;
+      TextView darkModeTextView = ViewBindings.findChildViewById(rootView, id);
+      if (darkModeTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.notificationSwitch;
+      Switch notificationSwitch = ViewBindings.findChildViewById(rootView, id);
+      if (notificationSwitch == null) {
+        break missingId;
+      }
+
+      id = R.id.notificationTextView;
+      TextView notificationTextView = ViewBindings.findChildViewById(rootView, id);
+      if (notificationTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.settingsTextView;
+      TextView settingsTextView = ViewBindings.findChildViewById(rootView, id);
+      if (settingsTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.settingsTextView2;
+      TextView settingsTextView2 = ViewBindings.findChildViewById(rootView, id);
+      if (settingsTextView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.settingsTitleTextView;
+      TextView settingsTitleTextView = ViewBindings.findChildViewById(rootView, id);
+      if (settingsTitleTextView == null) {
+        break missingId;
+      }
+
+      id = R.id.user_name;
+      CardView userName = ViewBindings.findChildViewById(rootView, id);
+      if (userName == null) {
+        break missingId;
+      }
+
+      id = R.id.userPhotoImageView;
+      ImageView userPhotoImageView = ViewBindings.findChildViewById(rootView, id);
+      if (userPhotoImageView == null) {
+        break missingId;
+      }
+
+      id = R.id.userTextView2;
+      TextView userTextView2 = ViewBindings.findChildViewById(rootView, id);
+      if (userTextView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.usernameTextView;
+      TextView usernameTextView = ViewBindings.findChildViewById(rootView, id);
+      if (usernameTextView == null) {
+        break missingId;
+      }
+
+      return new FragmentSettingsBinding((ConstraintLayout) rootView, darkModeSwitch,
+          darkModeTextView, notificationSwitch, notificationTextView, settingsTextView,
+          settingsTextView2, settingsTitleTextView, userName, userPhotoImageView, userTextView2,
+          usernameTextView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
