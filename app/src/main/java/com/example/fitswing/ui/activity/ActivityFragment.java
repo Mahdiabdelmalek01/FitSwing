@@ -5,19 +5,25 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
-import androidx.viewpager.widget.PagerAdapter;
-import androidx.viewpager.widget.ViewPager;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.fitswing.R;
 import com.example.fitswing.databinding.FragmentActivityBinding;
-import com.example.fitswing.ui.add_activity;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.tabs.TabLayout;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class ActivityFragment extends Fragment {
 
@@ -37,6 +43,29 @@ private FragmentActivityBinding binding;
             startActivity(intent);
         }
     });
+        RecyclerView recView = binding.recycleView;
+        recView.setLayoutManager(new LinearLayoutManager(getActivity()));
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        FirebaseDatabase database = FirebaseDatabase.getInstance("https://fitswing-6ea90-default-rtdb.europe-west1.firebasedatabase.app/");
+        String userid = user.getUid();
+        DatabaseReference myRef = database.getReference("users").child(userid).child("challenges");
+        myRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                List<activity> activities = new ArrayList<activity>();
+                for (DataSnapshot datasnapshot : snapshot.getChildren()) {
+                    activity challenge = new activity(datasnapshot.child("name").getValue(String.class),datasnapshot.child("calories").getValue(String.class),datasnapshot.child("description").getValue(String.class));
+                    if (challenge != null) {
+                        activities.add(challenge);
+                    }
+                }
+                recView.setAdapter(new MyAdapter(getContext(),activities));
+            }
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
         return root;
     }
 

@@ -3292,7 +3292,6 @@ id action_mode_bar_stub
 id action_mode_close_button
 id action_text
 id actions
-id activityDuration
 id activityTitle
 id activity_chooser_view_content
 id add
@@ -3640,6 +3639,7 @@ id radioButtonOption2
 id radioGroupMode
 id ratio
 id rectangles
+id recycleView
 id report_drawn
 id reverseSawtooth
 id right
@@ -3941,6 +3941,7 @@ layout activity_login
 layout activity_main
 layout activity_register
 layout activity_setup
+layout activity_view
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog

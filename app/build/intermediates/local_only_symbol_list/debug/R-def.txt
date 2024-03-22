@@ -40,7 +40,6 @@ drawable plus
 drawable shape1
 id Layout
 id Layout2
-id activityDuration
 id activityTitle
 id age
 id btnRegister
@@ -78,6 +77,7 @@ id progress_frame
 id radioButtonOption1
 id radioButtonOption2
 id radioGroupMode
+id recycleView
 id settingsTextView
 id settingsTextView2
 id settingsTitleTextView
@@ -116,6 +116,7 @@ layout activity_login
 layout activity_main
 layout activity_register
 layout activity_setup
+layout activity_view
 layout fragment_activity
 layout fragment_home
 layout fragment_progress
