@@ -90,8 +90,8 @@
 50
 51        <activity
 51-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:27:9-29:40
-52            android:name="com.example.fitswing.ui.add_activity"
-52-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-44
+52            android:name="com.example.fitswing.ui.activity.add_activity"
+52-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-53
 53            android:exported="false" />
 53-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:13-37
 54        <activity

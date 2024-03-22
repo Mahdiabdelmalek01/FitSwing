@@ -20,12 +20,16 @@
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
     },
     {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_my_widget.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/my_widget.xml"
+    },
+    {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_action_name.png.flat",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_action_name.png"
     },
     {
-        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_my_widget.xml.flat",
-        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/my_widget.xml"
+        "merged": "com.example.fitswing.app-merged_res-75:/layout_activity_view.xml.flat",
+        "source": "com.example.fitswing.app-main-77:/layout/activity_view.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_fire.png.flat",
@@ -94,6 +98,10 @@
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_plus.png.flat",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/plus.png"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_view.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_view.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_user.png.flat",
@@ -322,10 +330,6 @@
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.fitswing.app-merged_res-75:/layout_fragment_settings.xml.flat",
-        "source": "com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_register.xml.flat",

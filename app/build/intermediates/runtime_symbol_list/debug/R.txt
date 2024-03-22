@@ -3291,7 +3291,6 @@ int id action_mode_bar_stub 0x7f080043
 int id action_mode_close_button 0x7f080044
 int id action_text 0x7f080045
 int id actions 0x7f080046
-int id activityDuration 0x7f080047
 int id activityTitle 0x7f080048
 int id activity_chooser_view_content 0x7f080049
 int id add 0x7f08004a
@@ -3639,6 +3638,7 @@ int id radioButtonOption2 0x7f08019f
 int id radioGroupMode 0x7f0801a0
 int id ratio 0x7f0801a1
 int id rectangles 0x7f0801a2
+int id recycleView 0x7f080257
 int id report_drawn 0x7f0801a3
 int id reverseSawtooth 0x7f0801a4
 int id right 0x7f0801a5
@@ -3940,6 +3940,7 @@ int layout activity_login 0x7f0b001d
 int layout activity_main 0x7f0b001e
 int layout activity_register 0x7f0b001f
 int layout activity_setup 0x7f0b0020
+int layout activity_view 0x7f0b0075
 int layout browser_actions_context_menu_page 0x7f0b0021
 int layout browser_actions_context_menu_row 0x7f0b0022
 int layout custom_dialog 0x7f0b0023

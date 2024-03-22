@@ -49,7 +49,7 @@
         </receiver>
 
         <activity
-            android:name="com.example.fitswing.ui.add_activity"
+            android:name="com.example.fitswing.ui.activity.add_activity"
             android:exported="false" />
         <activity
             android:name="com.example.fitswing.ui.setup"

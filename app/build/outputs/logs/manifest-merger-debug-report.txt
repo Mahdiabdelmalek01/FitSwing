@@ -229,12 +229,12 @@ ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:22:13
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:24:17-55
 	android:name
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:23:17-58
-activity#com.example.fitswing.ui.add_activity
+activity#com.example.fitswing.ui.activity.add_activity
 ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:27:9-29:40
 	android:exported
 		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-44
+		ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-53
 activity#com.example.fitswing.ui.setup
 ADDED from /home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:30:9-32:40
 	android:exported
