@@ -1,77 +1,77 @@
-com.example.fitswing.app-firebase-common-20.4.2-0 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/res
-com.example.fitswing.app-ui-tooling-release-1 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/res
-com.example.fitswing.app-recyclerview-1.1.0-2 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/04b93b909f850463336a19c6f1b0a937/transformed/recyclerview-1.1.0/res
-com.example.fitswing.app-activity-1.8.0-3 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/0524f15559c7cf56833d87436a491737/transformed/activity-1.8.0/res
-com.example.fitswing.app-activity-compose-1.8.0-4 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/0544b7a243ce8cc39aa1d4a5e807a5f8/transformed/activity-compose-1.8.0/res
-com.example.fitswing.app-emoji2-1.4.0-5 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/res
-com.example.fitswing.app-lifecycle-livedata-ktx-2.7.0-6 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/100afd7f376b35ccf238b8e8d0c4dfdd/transformed/lifecycle-livedata-ktx-2.7.0/res
-com.example.fitswing.app-ui-text-release-7 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1457e78da675920a6d81a7b341b52082/transformed/ui-text-release/res
-com.example.fitswing.app-lifecycle-viewmodel-2.7.0-8 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1798f37a35241dbd27b405e28d806e5f/transformed/lifecycle-viewmodel-2.7.0/res
-com.example.fitswing.app-ui-unit-release-9 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1ddee7d14a0ff1318846d3b6938f43d6/transformed/ui-unit-release/res
-com.example.fitswing.app-activity-ktx-1.8.0-10 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/1fae890f73513551f5f59ee400e6cc52/transformed/activity-ktx-1.8.0/res
-com.example.fitswing.app-fragment-ktx-1.6.2-11 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/210ca73bd8468e8490ccb6b449eb4d3c/transformed/fragment-ktx-1.6.2/res
-com.example.fitswing.app-runtime-saveable-release-12 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/21a80024e0087434d174c239e3d582f0/transformed/runtime-saveable-release/res
-com.example.fitswing.app-animation-core-release-13 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/223556122d89fcc64d5d9666d634225f/transformed/animation-core-release/res
-com.example.fitswing.app-play-services-basement-18.3.0-14 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/res
-com.example.fitswing.app-coordinatorlayout-1.1.0-15 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/34c0ecca9bcb780af626678dbbb39a6a/transformed/coordinatorlayout-1.1.0/res
-com.example.fitswing.app-appcompat-resources-1.6.1-16 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/36e0e2512b87946257e5707973562c60/transformed/appcompat-resources-1.6.1/res
-com.example.fitswing.app-fragment-1.6.2-17 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/388245e22d3ab50f2293a90324cef862/transformed/fragment-1.6.2/res
-com.example.fitswing.app-savedstate-1.2.1-18 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/41edcf32bd9ff5ddcf1f503c4b5ef98f/transformed/savedstate-1.2.1/res
-com.example.fitswing.app-browser-1.4.0-19 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/43813f23d6194e0d011eb311542c5f30/transformed/browser-1.4.0/res
-com.example.fitswing.app-lifecycle-runtime-ktx-2.7.0-20 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/443c12ae699328a197e15ea5101a50d8/transformed/lifecycle-runtime-ktx-2.7.0/res
-com.example.fitswing.app-foundation-layout-release-21 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4760d59f470f7235578f04618ab679e2/transformed/foundation-layout-release/res
-com.example.fitswing.app-ui-tooling-data-release-22 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/480d9e6a71587ef57dbbfa6bead93e50/transformed/ui-tooling-data-release/res
-com.example.fitswing.app-ui-graphics-release-23 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/48668f626afe95aa38c0e0d62ddce35e/transformed/ui-graphics-release/res
-com.example.fitswing.app-material3-1.1.1-24 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/4eefa77c483898162fafd5325abbb20b/transformed/material3-1.1.1/res
-com.example.fitswing.app-lifecycle-viewmodel-savedstate-2.7.0-25 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/51958a239aff3354c612dff17010ee37/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
-com.example.fitswing.app-navigation-fragment-2.7.6-26 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5265a9963548ded22541e34971d50523/transformed/navigation-fragment-2.7.6/res
-com.example.fitswing.app-circularprogressbar-3.1.0-27 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5a1a9fa0d23a6a6c6ece0a942c888d87/transformed/circularprogressbar-3.1.0/res
-com.example.fitswing.app-foundation-release-28 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5e4aae22a7f082a9b39623b66d06e1b9/transformed/foundation-release/res
-com.example.fitswing.app-ui-tooling-preview-release-29 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/5ea973d9f8c049e16ba4cc530801c2f2/transformed/ui-tooling-preview-release/res
-com.example.fitswing.app-constraintlayout-2.1.4-30 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6a1f122dadcec287fbdb628c97e413fb/transformed/constraintlayout-2.1.4/res
-com.example.fitswing.app-ads-adservices-java-1.0.0-beta05-31 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6addcbeafa4c14e051187a2e40245049/transformed/ads-adservices-java-1.0.0-beta05/res
-com.example.fitswing.app-lifecycle-viewmodel-ktx-2.7.0-32 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/6eda031bd7fae50b9539760c5bcfe5ad/transformed/lifecycle-viewmodel-ktx-2.7.0/res
-com.example.fitswing.app-core-runtime-2.2.0-33 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/775284ad3479029f2aad27149d8b436e/transformed/core-runtime-2.2.0/res
-com.example.fitswing.app-lifecycle-runtime-2.7.0-34 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/7ed8e19a7e558af81e9ba0b9cc2dbac6/transformed/lifecycle-runtime-2.7.0/res
-com.example.fitswing.app-lifecycle-livedata-core-2.7.0-35 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/812dad8229cdc31f5dd7e054c54bb754/transformed/lifecycle-livedata-core-2.7.0/res
-com.example.fitswing.app-emoji2-views-helper-1.4.0-36 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/831f90cbb09b37b055ce5073e01c0932/transformed/emoji2-views-helper-1.4.0/res
-com.example.fitswing.app-savedstate-ktx-1.2.1-37 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/83302763596f1f73127c8071bf87c5ff/transformed/savedstate-ktx-1.2.1/res
-com.example.fitswing.app-lifecycle-livedata-2.7.0-38 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/838a0e854e79182849bb2ef943d9c44e/transformed/lifecycle-livedata-2.7.0/res
-com.example.fitswing.app-transition-1.4.1-39 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/865e0421f15f1090dca521db20fee181/transformed/transition-1.4.1/res
-com.example.fitswing.app-startup-runtime-1.1.1-40 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8674c8d13a4d92026f32ab97876f855d/transformed/startup-runtime-1.1.1/res
-com.example.fitswing.app-window-1.0.0-41 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/res
-com.example.fitswing.app-play-services-base-18.1.0-42 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/res
-com.example.fitswing.app-animation-release-43 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/8fb2610e80ea333a3eb7cd5cf27704e2/transformed/animation-release/res
-com.example.fitswing.app-ui-release-44 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/908153c9f92cfef602f555e913f1864e/transformed/ui-release/res
-com.example.fitswing.app-material-1.11.0-45 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a0dbfe6067925fd6440ae78d01aeeb5d/transformed/material-1.11.0/res
-com.example.fitswing.app-material-icons-core-release-46 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a17f62cb7de377e0e95920af3840f01e/transformed/material-icons-core-release/res
-com.example.fitswing.app-ads-adservices-1.0.0-beta05-47 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/res
-com.example.fitswing.app-slidingpanelayout-1.2.0-48 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/a90ad7366c9a84c37c693cd30d0ed80a/transformed/slidingpanelayout-1.2.0/res
-com.example.fitswing.app-appcompat-1.6.1-49 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res
-com.example.fitswing.app-viewpager2-1.0.0-50 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b2a935d1c16ddfa7377c0a115a05aadb/transformed/viewpager2-1.0.0/res
-com.example.fitswing.app-customview-poolingcontainer-1.0.0-51 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/b7ba5e42c22d686bfb6e302776375c7c/transformed/customview-poolingcontainer-1.0.0/res
-com.example.fitswing.app-navigation-common-2.7.6-52 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/bbab51b70efdbe081c9344c07d8e60af/transformed/navigation-common-2.7.6/res
-com.example.fitswing.app-drawerlayout-1.1.1-53 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/bbf78934bc1d9b6f2ab70ee7f9ab0c72/transformed/drawerlayout-1.1.1/res
-com.example.fitswing.app-ui-test-manifest-1.5.0-54 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/res
-com.example.fitswing.app-navigation-ui-2.7.6-55 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ce2e9d813c10f003e984217dd4715d78/transformed/navigation-ui-2.7.6/res
-com.example.fitswing.app-profileinstaller-1.3.0-56 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/res
-com.example.fitswing.app-material-ripple-release-57 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d9a37aa604f7adb74438def9b9c88fa5/transformed/material-ripple-release/res
-com.example.fitswing.app-lifecycle-livedata-core-ktx-2.7.0-58 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/d9e39f7d058fb41542ea5f49e573ca7c/transformed/lifecycle-livedata-core-ktx-2.7.0/res
-com.example.fitswing.app-material-release-59 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/dac41af70496f1086e49a4800326938e/transformed/material-release/res
-com.example.fitswing.app-runtime-release-60 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/e512cfd9778246abc76263e5ede8e777/transformed/runtime-release/res
-com.example.fitswing.app-core-ktx-1.10.0-61 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/e7237b4043d292783e759c795d7e9bcb/transformed/core-ktx-1.10.0/res
-com.example.fitswing.app-cardview-1.0.0-62 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/e9124e9bdb85ccaea2a4fcf1026e71d5/transformed/cardview-1.0.0/res
-com.example.fitswing.app-play-services-measurement-api-21.5.1-63 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/res
-com.example.fitswing.app-core-1.10.0-64 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/res
-com.example.fitswing.app-annotation-experimental-1.3.0-65 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f195a6f435ef4ea77656c20affd8cde7/transformed/annotation-experimental-1.3.0/res
-com.example.fitswing.app-navigation-runtime-2.7.6-66 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f8ffbfef59f912877757bc0846f35f0a/transformed/navigation-runtime-2.7.6/res
-com.example.fitswing.app-lifecycle-process-2.7.0-67 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/res
-com.example.fitswing.app-ui-util-release-68 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fc6e851777801e651058c7e080bf3e0d/transformed/ui-util-release/res
-com.example.fitswing.app-ui-geometry-release-69 /Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/fde26d81e7872ce2b1df05dbfe9af4e5/transformed/ui-geometry-release/res
-com.example.fitswing.app-res-70 /Users/mahdiabdelmalek/git/FitSwing/app/build/generated/res/processDebugGoogleServices
-com.example.fitswing.app-resValues-71 /Users/mahdiabdelmalek/git/FitSwing/app/build/generated/res/resValues/debug
-com.example.fitswing.app-packageDebugResources-72 /Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.fitswing.app-packageDebugResources-73 /Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.fitswing.app-merged_res-74 /Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/merged_res/debug
-com.example.fitswing.app-debug-75 /Users/mahdiabdelmalek/git/FitSwing/app/src/debug/res
-com.example.fitswing.app-main-76 /Users/mahdiabdelmalek/git/FitSwing/app/src/main/res
+com.example.fitswing.app-firebase-common-20.4.2-0 /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/res
+com.example.fitswing.app-ui-tooling-release-1 /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/res
+com.example.fitswing.app-recyclerview-1.1.0-2 /home/ayoub/.gradle/caches/transforms-3/04b93b909f850463336a19c6f1b0a937/transformed/recyclerview-1.1.0/res
+com.example.fitswing.app-activity-1.8.0-3 /home/ayoub/.gradle/caches/transforms-3/0524f15559c7cf56833d87436a491737/transformed/activity-1.8.0/res
+com.example.fitswing.app-activity-compose-1.8.0-4 /home/ayoub/.gradle/caches/transforms-3/0544b7a243ce8cc39aa1d4a5e807a5f8/transformed/activity-compose-1.8.0/res
+com.example.fitswing.app-emoji2-1.4.0-5 /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/res
+com.example.fitswing.app-lifecycle-livedata-ktx-2.7.0-6 /home/ayoub/.gradle/caches/transforms-3/100afd7f376b35ccf238b8e8d0c4dfdd/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.example.fitswing.app-ui-text-release-7 /home/ayoub/.gradle/caches/transforms-3/1457e78da675920a6d81a7b341b52082/transformed/ui-text-release/res
+com.example.fitswing.app-lifecycle-viewmodel-2.7.0-8 /home/ayoub/.gradle/caches/transforms-3/1798f37a35241dbd27b405e28d806e5f/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.fitswing.app-ui-unit-release-9 /home/ayoub/.gradle/caches/transforms-3/1ddee7d14a0ff1318846d3b6938f43d6/transformed/ui-unit-release/res
+com.example.fitswing.app-activity-ktx-1.8.0-10 /home/ayoub/.gradle/caches/transforms-3/1fae890f73513551f5f59ee400e6cc52/transformed/activity-ktx-1.8.0/res
+com.example.fitswing.app-fragment-ktx-1.6.2-11 /home/ayoub/.gradle/caches/transforms-3/210ca73bd8468e8490ccb6b449eb4d3c/transformed/fragment-ktx-1.6.2/res
+com.example.fitswing.app-runtime-saveable-release-12 /home/ayoub/.gradle/caches/transforms-3/21a80024e0087434d174c239e3d582f0/transformed/runtime-saveable-release/res
+com.example.fitswing.app-animation-core-release-13 /home/ayoub/.gradle/caches/transforms-3/223556122d89fcc64d5d9666d634225f/transformed/animation-core-release/res
+com.example.fitswing.app-play-services-basement-18.3.0-14 /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/res
+com.example.fitswing.app-coordinatorlayout-1.1.0-15 /home/ayoub/.gradle/caches/transforms-3/34c0ecca9bcb780af626678dbbb39a6a/transformed/coordinatorlayout-1.1.0/res
+com.example.fitswing.app-appcompat-resources-1.6.1-16 /home/ayoub/.gradle/caches/transforms-3/36e0e2512b87946257e5707973562c60/transformed/appcompat-resources-1.6.1/res
+com.example.fitswing.app-fragment-1.6.2-17 /home/ayoub/.gradle/caches/transforms-3/388245e22d3ab50f2293a90324cef862/transformed/fragment-1.6.2/res
+com.example.fitswing.app-savedstate-1.2.1-18 /home/ayoub/.gradle/caches/transforms-3/41edcf32bd9ff5ddcf1f503c4b5ef98f/transformed/savedstate-1.2.1/res
+com.example.fitswing.app-browser-1.4.0-19 /home/ayoub/.gradle/caches/transforms-3/43813f23d6194e0d011eb311542c5f30/transformed/browser-1.4.0/res
+com.example.fitswing.app-lifecycle-runtime-ktx-2.7.0-20 /home/ayoub/.gradle/caches/transforms-3/443c12ae699328a197e15ea5101a50d8/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.example.fitswing.app-foundation-layout-release-21 /home/ayoub/.gradle/caches/transforms-3/4760d59f470f7235578f04618ab679e2/transformed/foundation-layout-release/res
+com.example.fitswing.app-ui-tooling-data-release-22 /home/ayoub/.gradle/caches/transforms-3/480d9e6a71587ef57dbbfa6bead93e50/transformed/ui-tooling-data-release/res
+com.example.fitswing.app-ui-graphics-release-23 /home/ayoub/.gradle/caches/transforms-3/48668f626afe95aa38c0e0d62ddce35e/transformed/ui-graphics-release/res
+com.example.fitswing.app-material3-1.1.1-24 /home/ayoub/.gradle/caches/transforms-3/4eefa77c483898162fafd5325abbb20b/transformed/material3-1.1.1/res
+com.example.fitswing.app-lifecycle-viewmodel-savedstate-2.7.0-25 /home/ayoub/.gradle/caches/transforms-3/51958a239aff3354c612dff17010ee37/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.fitswing.app-navigation-fragment-2.7.6-26 /home/ayoub/.gradle/caches/transforms-3/5265a9963548ded22541e34971d50523/transformed/navigation-fragment-2.7.6/res
+com.example.fitswing.app-circularprogressbar-3.1.0-27 /home/ayoub/.gradle/caches/transforms-3/5a1a9fa0d23a6a6c6ece0a942c888d87/transformed/circularprogressbar-3.1.0/res
+com.example.fitswing.app-foundation-release-28 /home/ayoub/.gradle/caches/transforms-3/5e4aae22a7f082a9b39623b66d06e1b9/transformed/foundation-release/res
+com.example.fitswing.app-ui-tooling-preview-release-29 /home/ayoub/.gradle/caches/transforms-3/5ea973d9f8c049e16ba4cc530801c2f2/transformed/ui-tooling-preview-release/res
+com.example.fitswing.app-constraintlayout-2.1.4-30 /home/ayoub/.gradle/caches/transforms-3/6a1f122dadcec287fbdb628c97e413fb/transformed/constraintlayout-2.1.4/res
+com.example.fitswing.app-ads-adservices-java-1.0.0-beta05-31 /home/ayoub/.gradle/caches/transforms-3/6addcbeafa4c14e051187a2e40245049/transformed/ads-adservices-java-1.0.0-beta05/res
+com.example.fitswing.app-lifecycle-viewmodel-ktx-2.7.0-32 /home/ayoub/.gradle/caches/transforms-3/6eda031bd7fae50b9539760c5bcfe5ad/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.example.fitswing.app-core-runtime-2.2.0-33 /home/ayoub/.gradle/caches/transforms-3/775284ad3479029f2aad27149d8b436e/transformed/core-runtime-2.2.0/res
+com.example.fitswing.app-lifecycle-runtime-2.7.0-34 /home/ayoub/.gradle/caches/transforms-3/7ed8e19a7e558af81e9ba0b9cc2dbac6/transformed/lifecycle-runtime-2.7.0/res
+com.example.fitswing.app-lifecycle-livedata-core-2.7.0-35 /home/ayoub/.gradle/caches/transforms-3/812dad8229cdc31f5dd7e054c54bb754/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.fitswing.app-emoji2-views-helper-1.4.0-36 /home/ayoub/.gradle/caches/transforms-3/831f90cbb09b37b055ce5073e01c0932/transformed/emoji2-views-helper-1.4.0/res
+com.example.fitswing.app-savedstate-ktx-1.2.1-37 /home/ayoub/.gradle/caches/transforms-3/83302763596f1f73127c8071bf87c5ff/transformed/savedstate-ktx-1.2.1/res
+com.example.fitswing.app-lifecycle-livedata-2.7.0-38 /home/ayoub/.gradle/caches/transforms-3/838a0e854e79182849bb2ef943d9c44e/transformed/lifecycle-livedata-2.7.0/res
+com.example.fitswing.app-transition-1.4.1-39 /home/ayoub/.gradle/caches/transforms-3/865e0421f15f1090dca521db20fee181/transformed/transition-1.4.1/res
+com.example.fitswing.app-startup-runtime-1.1.1-40 /home/ayoub/.gradle/caches/transforms-3/8674c8d13a4d92026f32ab97876f855d/transformed/startup-runtime-1.1.1/res
+com.example.fitswing.app-window-1.0.0-41 /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/res
+com.example.fitswing.app-play-services-base-18.1.0-42 /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/res
+com.example.fitswing.app-animation-release-43 /home/ayoub/.gradle/caches/transforms-3/8fb2610e80ea333a3eb7cd5cf27704e2/transformed/animation-release/res
+com.example.fitswing.app-ui-release-44 /home/ayoub/.gradle/caches/transforms-3/908153c9f92cfef602f555e913f1864e/transformed/ui-release/res
+com.example.fitswing.app-material-1.11.0-45 /home/ayoub/.gradle/caches/transforms-3/a0dbfe6067925fd6440ae78d01aeeb5d/transformed/material-1.11.0/res
+com.example.fitswing.app-material-icons-core-release-46 /home/ayoub/.gradle/caches/transforms-3/a17f62cb7de377e0e95920af3840f01e/transformed/material-icons-core-release/res
+com.example.fitswing.app-ads-adservices-1.0.0-beta05-47 /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/res
+com.example.fitswing.app-slidingpanelayout-1.2.0-48 /home/ayoub/.gradle/caches/transforms-3/a90ad7366c9a84c37c693cd30d0ed80a/transformed/slidingpanelayout-1.2.0/res
+com.example.fitswing.app-appcompat-1.6.1-49 /home/ayoub/.gradle/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res
+com.example.fitswing.app-viewpager2-1.0.0-50 /home/ayoub/.gradle/caches/transforms-3/b2a935d1c16ddfa7377c0a115a05aadb/transformed/viewpager2-1.0.0/res
+com.example.fitswing.app-customview-poolingcontainer-1.0.0-51 /home/ayoub/.gradle/caches/transforms-3/b7ba5e42c22d686bfb6e302776375c7c/transformed/customview-poolingcontainer-1.0.0/res
+com.example.fitswing.app-navigation-common-2.7.6-52 /home/ayoub/.gradle/caches/transforms-3/bbab51b70efdbe081c9344c07d8e60af/transformed/navigation-common-2.7.6/res
+com.example.fitswing.app-drawerlayout-1.1.1-53 /home/ayoub/.gradle/caches/transforms-3/bbf78934bc1d9b6f2ab70ee7f9ab0c72/transformed/drawerlayout-1.1.1/res
+com.example.fitswing.app-ui-test-manifest-1.5.0-54 /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/res
+com.example.fitswing.app-navigation-ui-2.7.6-55 /home/ayoub/.gradle/caches/transforms-3/ce2e9d813c10f003e984217dd4715d78/transformed/navigation-ui-2.7.6/res
+com.example.fitswing.app-profileinstaller-1.3.0-56 /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/res
+com.example.fitswing.app-material-ripple-release-57 /home/ayoub/.gradle/caches/transforms-3/d9a37aa604f7adb74438def9b9c88fa5/transformed/material-ripple-release/res
+com.example.fitswing.app-lifecycle-livedata-core-ktx-2.7.0-58 /home/ayoub/.gradle/caches/transforms-3/d9e39f7d058fb41542ea5f49e573ca7c/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.example.fitswing.app-material-release-59 /home/ayoub/.gradle/caches/transforms-3/dac41af70496f1086e49a4800326938e/transformed/material-release/res
+com.example.fitswing.app-runtime-release-60 /home/ayoub/.gradle/caches/transforms-3/e512cfd9778246abc76263e5ede8e777/transformed/runtime-release/res
+com.example.fitswing.app-core-ktx-1.10.0-61 /home/ayoub/.gradle/caches/transforms-3/e7237b4043d292783e759c795d7e9bcb/transformed/core-ktx-1.10.0/res
+com.example.fitswing.app-cardview-1.0.0-62 /home/ayoub/.gradle/caches/transforms-3/e9124e9bdb85ccaea2a4fcf1026e71d5/transformed/cardview-1.0.0/res
+com.example.fitswing.app-play-services-measurement-api-21.5.1-63 /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/res
+com.example.fitswing.app-core-1.10.0-64 /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/res
+com.example.fitswing.app-annotation-experimental-1.3.0-65 /home/ayoub/.gradle/caches/transforms-3/f195a6f435ef4ea77656c20affd8cde7/transformed/annotation-experimental-1.3.0/res
+com.example.fitswing.app-navigation-runtime-2.7.6-66 /home/ayoub/.gradle/caches/transforms-3/f8ffbfef59f912877757bc0846f35f0a/transformed/navigation-runtime-2.7.6/res
+com.example.fitswing.app-lifecycle-process-2.7.0-67 /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/res
+com.example.fitswing.app-ui-util-release-68 /home/ayoub/.gradle/caches/transforms-3/fc6e851777801e651058c7e080bf3e0d/transformed/ui-util-release/res
+com.example.fitswing.app-ui-geometry-release-69 /home/ayoub/.gradle/caches/transforms-3/fde26d81e7872ce2b1df05dbfe9af4e5/transformed/ui-geometry-release/res
+com.example.fitswing.app-res-70 /home/ayoub/Documents/FitSwing/app/build/generated/res/processDebugGoogleServices
+com.example.fitswing.app-resValues-71 /home/ayoub/Documents/FitSwing/app/build/generated/res/resValues/debug
+com.example.fitswing.app-packageDebugResources-72 /home/ayoub/Documents/FitSwing/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.fitswing.app-packageDebugResources-73 /home/ayoub/Documents/FitSwing/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.fitswing.app-merged_res-74 /home/ayoub/Documents/FitSwing/app/build/intermediates/merged_res/debug
+com.example.fitswing.app-debug-75 /home/ayoub/Documents/FitSwing/app/src/debug/res
+com.example.fitswing.app-main-76 /home/ayoub/Documents/FitSwing/app/src/main/res

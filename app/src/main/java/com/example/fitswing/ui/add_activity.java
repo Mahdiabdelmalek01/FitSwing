@@ -23,21 +23,16 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class add_activity extends AppCompatActivity {
-
     EditText activity_name;
-
     EditText activity_calories;
     EditText activity_description;
-
     EditText activity_date;
-
     Button addBtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_add);
-
         activity_name = findViewById(R.id.txtName);
         activity_calories = findViewById(R.id.txtCalories);
         activity_description = findViewById(R.id.txtDescription);

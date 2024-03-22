@@ -4,17 +4,7 @@
             "outputFile": "com.example.fitswing.app-mergeDebugResources-73:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
