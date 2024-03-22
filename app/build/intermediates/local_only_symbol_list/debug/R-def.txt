@@ -1,6 +1,13 @@
 R_DEF: Internal format may change without notice
 local
+attr? appWidgetInnerRadius
+attr? appWidgetPadding
+attr? appWidgetRadius
 color black
+color light_blue_200
+color light_blue_50
+color light_blue_600
+color light_blue_900
 color purple_200
 color purple_500
 color purple_700
@@ -9,6 +16,9 @@ color teal_700
 color white
 dimen activity_horizontal_margin
 dimen activity_vertical_margin
+dimen widget_margin
+drawable app_widget_background
+drawable app_widget_inner_view_background
 drawable background
 drawable calories
 drawable corners
@@ -16,6 +26,7 @@ drawable custom_shape
 drawable custom_shape2
 drawable delete
 drawable edit
+drawable example_appwidget_preview
 drawable fire
 drawable ic_action_name
 drawable ic_activity_black_24dp
@@ -92,6 +103,7 @@ id txtEmail
 id txtName
 id txtPassword
 id txtPwd
+id txtWidget
 id userIcon
 id userPhotoImageView
 id userTextView2
@@ -108,13 +120,17 @@ layout fragment_activity
 layout fragment_home
 layout fragment_progress
 layout fragment_settings
+layout my_widget
 menu bottom_nav_menu
 mipmap ic_banner
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap shape
 navigation mobile_navigation
+string add_widget
 string app_name
+string app_widget_description
+string appwidget_text
 string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
@@ -128,5 +144,11 @@ string title_home
 string title_progress
 string title_settings
 style Theme.FitSwing
+style Theme.FitSwing.AppWidgetContainer
+style Theme.FitSwing.AppWidgetContainerParent
+style Widget.FitSwing.AppWidget.Container
+style Widget.FitSwing.AppWidget.InnerView
+styleable AppWidgetAttrs appWidgetPadding appWidgetInnerRadius appWidgetRadius
 xml backup_rules
 xml data_extraction_rules
+xml my_widget_info

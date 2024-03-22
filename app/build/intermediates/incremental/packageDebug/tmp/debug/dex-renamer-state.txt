@@ -1,14 +1,14 @@
-#Thu Mar 21 23:30:10 CET 2024
-base.0=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
-base.3=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.4=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.5=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.6=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
-base.7=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
-base.8=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.9=/home/ayoub/Documents/FitSwing/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Fri Mar 22 13:15:04 CET 2024
+base.0=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.3=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.4=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.5=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.6=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+base.7=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.8=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.9=/Users/mahdiabdelmalek/git/FitSwing/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=10/classes.dex

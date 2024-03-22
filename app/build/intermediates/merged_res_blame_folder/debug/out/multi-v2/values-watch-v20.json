@@ -4,7 +4,7 @@
             "outputFile": "com.example.fitswing.app-mergeDebugResources-73:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/home/ayoub/.gradle/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/caches/transforms-3/ae3e47fc843fbe6b304d370b9fa5f96e/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

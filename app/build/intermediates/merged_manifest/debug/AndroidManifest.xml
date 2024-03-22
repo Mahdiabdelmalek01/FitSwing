@@ -36,6 +36,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.FitSwing" >
+        <receiver
+            android:name="com.example.fitswing.MyWidget"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/my_widget_info" />
+        </receiver>
+
         <activity
             android:name="com.example.fitswing.ui.add_activity"
             android:exported="false" />
