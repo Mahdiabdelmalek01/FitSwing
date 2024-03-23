@@ -54,7 +54,7 @@ private FragmentActivityBinding binding;
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 List<activity> activities = new ArrayList<activity>();
                 for (DataSnapshot datasnapshot : snapshot.getChildren()) {
-                    activity challenge = new activity(datasnapshot.child("name").getValue(String.class),datasnapshot.child("calories").getValue(String.class),datasnapshot.child("description").getValue(String.class));
+                    activity challenge = new activity(datasnapshot.child("name").getValue(String.class),datasnapshot.child("calories").getValue(String.class),datasnapshot.child("completed").getValue(Boolean.class),datasnapshot.child("description").getValue(String.class),datasnapshot.child("date").getValue(String.class),datasnapshot.getKey());
                     if (challenge != null) {
                         activities.add(challenge);
                     }

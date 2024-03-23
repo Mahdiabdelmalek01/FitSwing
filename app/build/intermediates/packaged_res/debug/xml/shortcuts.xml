@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="Activity"
+        android:enabled="true"
+        android:icon="@mipmap/ic_progress"
+        android:shortcutShortLabel="@string/progress_shortcut"
+        android:shortcutLongLabel="@string/progress_shortcut">
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetPackage="com.example.fitswing"
+            android:targetClass="com.example.fitswing.MainActivity" />
+    </shortcut>
+</shortcuts>

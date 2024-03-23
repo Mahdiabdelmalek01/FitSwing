@@ -8,422 +8,443 @@
 8        android:minSdkVersion="24"
 9        android:targetSdkVersion="34" />
 10
-11    <uses-permission android:name="android.permission.INTERNET" />
-11-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:5-67
-11-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:22-64
-12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:26:5-79
-12-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:26:22-76
-13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:24:5-68
-13-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:24:22-65
-14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-14-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:25:5-79
-14-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:25:22-76
-15    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
-15-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:26:5-88
-15-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:26:22-85
-16    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
-16-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:27:5-82
-16-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:27:22-79
-17    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-17-->[com.google.android.recaptcha:recaptcha:18.4.0] /home/ayoub/.gradle/caches/transforms-3/7000517215ca898d80a12a666d60c867/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
-17-->[com.google.android.recaptcha:recaptcha:18.4.0] /home/ayoub/.gradle/caches/transforms-3/7000517215ca898d80a12a666d60c867/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
-18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-18-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:26:5-110
-18-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:26:22-107
-19
-20    <permission
-20-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
-21        android:name="com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-21-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
-22        android:protectionLevel="signature" />
-22-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
-23
-24    <uses-permission android:name="com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-24-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
-24-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
-25
-26    <application
-26-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-49:19
-27        android:allowBackup="true"
-27-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:6:9-35
-28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
-29        android:dataExtractionRules="@xml/data_extraction_rules"
-29-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:7:9-65
-30        android:debuggable="true"
-31        android:extractNativeLibs="false"
-32        android:fullBackupContent="@xml/backup_rules"
-32-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:8:9-54
-33        android:icon="@mipmap/ic_launcher"
-33-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:9:9-43
-34        android:label="@string/app_name"
-34-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:10:9-41
-35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:11:9-54
-36        android:supportsRtl="true"
-36-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:12:9-35
-37        android:testOnly="true"
-38        android:theme="@style/Theme.FitSwing" >
-38-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:13:9-46
-39        <receiver
-39-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:15:9-25:20
-40            android:name="com.example.fitswing.MyWidget"
-40-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:16:13-37
-41            android:exported="false" >
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:5-77
+11-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:5-67
+12-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:26:5-79
+13-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:26:22-76
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:24:5-68
+14-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:24:22-65
+15    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+15-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:25:5-79
+15-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:25:22-76
+16    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+16-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:26:5-88
+16-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:26:22-85
+17    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+17-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:27:5-82
+17-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:27:22-79
+18    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+18-->[com.google.android.recaptcha:recaptcha:18.4.0] /home/ayoub/.gradle/caches/transforms-3/7000517215ca898d80a12a666d60c867/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+18-->[com.google.android.recaptcha:recaptcha:18.4.0] /home/ayoub/.gradle/caches/transforms-3/7000517215ca898d80a12a666d60c867/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+19-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:26:5-110
+19-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:26:22-107
+20
+21    <permission
+21-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+22        android:name="com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+22-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+23        android:protectionLevel="signature" />
+23-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+24
+25    <uses-permission android:name="com.example.fitswing.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+25-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+25-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+26
+27    <application
+27-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:6:5-58:19
+28        android:allowBackup="true"
+28-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:7:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.10.0] /home/ayoub/.gradle/caches/transforms-3/f0e4cada46333ebded9fe7fa26f58aa5/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+30        android:dataExtractionRules="@xml/data_extraction_rules"
+30-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:8:9-65
+31        android:debuggable="true"
+32        android:extractNativeLibs="false"
+33        android:fullBackupContent="@xml/backup_rules"
+33-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:9:9-54
+34        android:icon="@mipmap/ic_launcher"
+34-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:10:9-43
+35        android:label="@string/app_name"
+35-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:11:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:12:9-54
+37        android:supportsRtl="true"
+37-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:13:9-35
+38        android:testOnly="true"
+39        android:theme="@style/Theme.FitSwing" >
+39-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:14:9-46
+40        <receiver
+40-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:16:9-26:20
+41            android:name="com.example.fitswing.MyWidget"
 41-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:17:13-37
-42            <intent-filter>
-42-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:18:13-20:29
-43                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-43-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:19:17-84
-43-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:19:25-81
-44            </intent-filter>
-45
-46            <meta-data
-46-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:22:13-24:58
-47                android:name="android.appwidget.provider"
-47-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:23:17-58
-48                android:resource="@xml/my_widget_info" />
-48-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:24:17-55
-49        </receiver>
-50
-51        <activity
-51-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:27:9-29:40
-52            android:name="com.example.fitswing.ui.activity.add_activity"
-52-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:13-53
-53            android:exported="false" />
-53-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:13-37
-54        <activity
-54-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:30:9-32:40
-55            android:name="com.example.fitswing.ui.setup"
-55-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:31:13-37
-56            android:exported="false" />
+42            android:exported="false" >
+42-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:18:13-37
+43            <intent-filter>
+43-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:19:13-21:29
+44                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+44-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:20:17-84
+44-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:20:25-81
+45            </intent-filter>
+46
+47            <meta-data
+47-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:23:13-25:58
+48                android:name="android.appwidget.provider"
+48-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:24:17-58
+49                android:resource="@xml/my_widget_info" />
+49-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:25:17-55
+50        </receiver>
+51
+52        <activity
+52-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:28:9-30:40
+53            android:name="com.example.fitswing.ui.activity.add_activity"
+53-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:29:13-53
+54            android:exported="false" />
+54-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:30:13-37
+55        <activity
+55-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:31:9-33:40
+56            android:name="com.example.fitswing.ui.setup"
 56-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:32:13-37
-57        <activity
-57-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:33:9-35:40
-58            android:name="com.example.fitswing.ui.register"
-58-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:34:13-40
-59            android:exported="false" />
-59-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:35:13-37
-60        <activity
-60-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:36:9-38:40
-61            android:name="com.example.fitswing.ui.login"
-61-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:37:13-37
-62            android:exported="false" />
+57            android:exported="false" />
+57-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:33:13-37
+58        <activity
+58-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:34:9-36:40
+59            android:name="com.example.fitswing.ui.register"
+59-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:35:13-40
+60            android:exported="false" />
+60-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:36:13-37
+61        <activity
+61-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:37:9-39:40
+62            android:name="com.example.fitswing.ui.login"
 62-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:38:13-37
-63        <activity
-63-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:39:9-48:20
-64            android:name="com.example.fitswing.MainActivity"
-64-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:40:13-41
-65            android:exported="true"
-65-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:41:13-36
-66            android:label="@string/app_name" >
-66-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:42:13-45
-67            <intent-filter>
-67-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:43:13-47:29
-68                <action android:name="android.intent.action.MAIN" />
-68-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:44:17-69
-68-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:44:25-66
-69
-70                <category android:name="android.intent.category.LAUNCHER" />
-70-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:46:17-77
-70-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:46:27-74
-71            </intent-filter>
-72        </activity>
-73        <activity
-73-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:29:9-46:20
-74            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-74-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:30:13-80
-75            android:excludeFromRecents="true"
-75-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:31:13-46
-76            android:exported="true"
-76-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:32:13-36
-77            android:launchMode="singleTask"
-77-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:33:13-44
-78            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-78-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:34:13-72
-79            <intent-filter>
-79-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:35:13-45:29
-80                <action android:name="android.intent.action.VIEW" />
-80-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:17-69
-80-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:25-66
-81
-82                <category android:name="android.intent.category.DEFAULT" />
-82-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:17-76
-82-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:27-73
-83                <category android:name="android.intent.category.BROWSABLE" />
-83-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:17-78
-83-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:27-75
+63            android:exported="false" />
+63-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:39:13-37
+64        <activity
+64-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:40:9-53:20
+65            android:name="com.example.fitswing.MainActivity"
+65-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:41:13-41
+66            android:exported="true"
+66-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:42:13-36
+67            android:label="@string/app_name" >
+67-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:43:13-45
+68            <intent-filter>
+68-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:44:13-48:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:45:17-69
+69-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:45:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:47:17-77
+71-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:47:27-74
+72            </intent-filter>
+73
+74            <meta-data
+74-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:49:13-52:25
+75                android:name="android.app.shortcuts"
+75-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:50:17-53
+76                android:resource="@xml/shortcuts" >
+76-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:51:17-50
+77            </meta-data>
+78        </activity>
+79
+80        <service
+80-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:54:9-57:40
+81            android:name="com.example.fitswing.NotificationService"
+81-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:55:13-48
+82            android:enabled="true"
+82-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:56:13-35
+83            android:exported="false" />
+83-->/home/ayoub/Documents/FitSwing/app/src/main/AndroidManifest.xml:57:13-37
 84
-85                <data
-85-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:41:17-44:51
-86                    android:host="firebase.auth"
-86-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:42:21-49
-87                    android:path="/"
-87-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:43:21-37
-88                    android:scheme="genericidp" />
-88-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:44:21-48
-89            </intent-filter>
-90        </activity>
-91        <activity
-91-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:47:9-64:20
-92            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-92-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:48:13-79
-93            android:excludeFromRecents="true"
-93-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:49:13-46
-94            android:exported="true"
-94-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:50:13-36
-95            android:launchMode="singleTask"
-95-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:51:13-44
-96            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-96-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:52:13-72
-97            <intent-filter>
-97-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:53:13-63:29
-98                <action android:name="android.intent.action.VIEW" />
-98-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:17-69
-98-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:25-66
-99
-100                <category android:name="android.intent.category.DEFAULT" />
-100-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:17-76
-100-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:27-73
-101                <category android:name="android.intent.category.BROWSABLE" />
-101-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:17-78
-101-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:27-75
-102
-103                <data
-103-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:41:17-44:51
-104                    android:host="firebase.auth"
-104-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:42:21-49
-105                    android:path="/"
-105-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:43:21-37
-106                    android:scheme="recaptcha" />
-106-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:44:21-48
-107            </intent-filter>
-108        </activity>
-109
-110        <service
-110-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:66:9-72:19
-111            android:name="com.google.firebase.components.ComponentDiscoveryService"
-111-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:67:13-84
-112            android:directBootAware="true"
-112-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
-113            android:exported="false" >
-113-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:68:13-37
-114            <meta-data
-114-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:69:13-71:85
-115                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-115-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:70:17-109
-116                android:value="com.google.firebase.components.ComponentRegistrar" />
-116-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:71:17-82
-117            <meta-data
-117-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:29:13-31:85
-118                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
-118-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:30:17-120
-119                android:value="com.google.firebase.components.ComponentRegistrar" />
-119-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:31:17-82
-120            <meta-data
-120-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:32:13-34:85
-121                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-121-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:33:17-109
-122                android:value="com.google.firebase.components.ComponentRegistrar" />
-122-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:34:17-82
-123            <meta-data
-123-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:37:13-39:85
-124                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-124-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:38:17-139
-125                android:value="com.google.firebase.components.ComponentRegistrar" />
-125-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:39:17-82
+85        <activity
+85-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:29:9-46:20
+86            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+86-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:30:13-80
+87            android:excludeFromRecents="true"
+87-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:31:13-46
+88            android:exported="true"
+88-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:32:13-36
+89            android:launchMode="singleTask"
+89-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:33:13-44
+90            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+90-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:34:13-72
+91            <intent-filter>
+91-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:35:13-45:29
+92                <action android:name="android.intent.action.VIEW" />
+92-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:17-69
+92-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:25-66
+93
+94                <category android:name="android.intent.category.DEFAULT" />
+94-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:17-76
+94-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:27-73
+95                <category android:name="android.intent.category.BROWSABLE" />
+95-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:17-78
+95-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:27-75
+96
+97                <data
+97-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:41:17-44:51
+98                    android:host="firebase.auth"
+98-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:42:21-49
+99                    android:path="/"
+99-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:43:21-37
+100                    android:scheme="genericidp" />
+100-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:44:21-48
+101            </intent-filter>
+102        </activity>
+103        <activity
+103-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:47:9-64:20
+104            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+104-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:48:13-79
+105            android:excludeFromRecents="true"
+105-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:49:13-46
+106            android:exported="true"
+106-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:50:13-36
+107            android:launchMode="singleTask"
+107-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:51:13-44
+108            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+108-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:52:13-72
+109            <intent-filter>
+109-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:53:13-63:29
+110                <action android:name="android.intent.action.VIEW" />
+110-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:17-69
+110-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:36:25-66
+111
+112                <category android:name="android.intent.category.DEFAULT" />
+112-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:17-76
+112-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:38:27-73
+113                <category android:name="android.intent.category.BROWSABLE" />
+113-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:17-78
+113-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:39:27-75
+114
+115                <data
+115-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:41:17-44:51
+116                    android:host="firebase.auth"
+116-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:42:21-49
+117                    android:path="/"
+117-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:43:21-37
+118                    android:scheme="recaptcha" />
+118-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:44:21-48
+119            </intent-filter>
+120        </activity>
+121
+122        <service
+122-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:66:9-72:19
+123            android:name="com.google.firebase.components.ComponentDiscoveryService"
+123-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:67:13-84
+124            android:directBootAware="true"
+124-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+125            android:exported="false" >
+125-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:68:13-37
 126            <meta-data
-126-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
-127                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-127-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+126-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:69:13-71:85
+127                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+127-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:70:17-109
 128                android:value="com.google.firebase.components.ComponentRegistrar" />
-128-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+128-->[com.google.firebase:firebase-auth:22.3.1] /home/ayoub/.gradle/caches/transforms-3/b6901ab3b3bf768233a31a677dd8ceb2/transformed/firebase-auth-22.3.1/AndroidManifest.xml:71:17-82
 129            <meta-data
-129-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
-130                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-130-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+129-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:29:13-31:85
+130                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+130-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:30:17-120
 131                android:value="com.google.firebase.components.ComponentRegistrar" />
-131-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+131-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:31:17-82
 132            <meta-data
-132-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/ayoub/.gradle/caches/transforms-3/47158accb502adaaba689a3d6e0e410e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
-133                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-133-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/ayoub/.gradle/caches/transforms-3/47158accb502adaaba689a3d6e0e410e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+132-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:32:13-34:85
+133                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+133-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:33:17-109
 134                android:value="com.google.firebase.components.ComponentRegistrar" />
-134-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/ayoub/.gradle/caches/transforms-3/47158accb502adaaba689a3d6e0e410e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+134-->[com.google.firebase:firebase-database:20.3.1] /home/ayoub/.gradle/caches/transforms-3/cc2bd0ba2265ee994c5f17d0bbd92aac/transformed/firebase-database-20.3.1/AndroidManifest.xml:34:17-82
 135            <meta-data
-135-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
-136                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-136-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+135-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:37:13-39:85
+136                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+136-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:38:17-139
 137                android:value="com.google.firebase.components.ComponentRegistrar" />
-137-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
-138        </service>
-139
-140        <property
-140-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:30:9-32:61
-141            android:name="android.adservices.AD_SERVICES_CONFIG"
-141-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:31:13-65
-142            android:resource="@xml/ga_ad_services_config" />
-142-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:32:13-58
-143
-144        <activity
-144-->[androidx.compose.ui:ui-tooling-android:1.5.0] /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
-145            android:name="androidx.compose.ui.tooling.PreviewActivity"
-145-->[androidx.compose.ui:ui-tooling-android:1.5.0] /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
-146            android:exported="true" />
-146-->[androidx.compose.ui:ui-tooling-android:1.5.0] /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
-147
-148        <provider
-148-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
-149            android:name="com.google.firebase.provider.FirebaseInitProvider"
-149-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
-150            android:authorities="com.example.fitswing.firebaseinitprovider"
-150-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
-151            android:directBootAware="true"
-151-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
-152            android:exported="false"
-152-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
-153            android:initOrder="100" />
-153-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
-154
-155        <activity
-155-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
-156            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-156-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
-157            android:exported="false"
-157-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
-158            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-158-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+137-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:39:17-82
+138            <meta-data
+138-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+139                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+139-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+140                android:value="com.google.firebase.components.ComponentRegistrar" />
+140-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+141            <meta-data
+141-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+142                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+142-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+143                android:value="com.google.firebase.components.ComponentRegistrar" />
+143-->[com.google.firebase:firebase-installations:17.2.0] /home/ayoub/.gradle/caches/transforms-3/c67bccce3ec8fbae0f41f846b748d27a/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+144            <meta-data
+144-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/ayoub/.gradle/caches/transforms-3/47158accb502adaaba689a3d6e0e410e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+145                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+145-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/ayoub/.gradle/caches/transforms-3/47158accb502adaaba689a3d6e0e410e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/ayoub/.gradle/caches/transforms-3/47158accb502adaaba689a3d6e0e410e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+148                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+148-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+150        </service>
+151
+152        <property
+152-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:30:9-32:61
+153            android:name="android.adservices.AD_SERVICES_CONFIG"
+153-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:31:13-65
+154            android:resource="@xml/ga_ad_services_config" />
+154-->[com.google.android.gms:play-services-measurement-api:21.5.1] /home/ayoub/.gradle/caches/transforms-3/ee584d54c895b09f870fa7be639ba72f/transformed/play-services-measurement-api-21.5.1/AndroidManifest.xml:32:13-58
+155
+156        <activity
+156-->[androidx.compose.ui:ui-tooling-android:1.5.0] /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+157            android:name="androidx.compose.ui.tooling.PreviewActivity"
+157-->[androidx.compose.ui:ui-tooling-android:1.5.0] /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+158            android:exported="true" />
+158-->[androidx.compose.ui:ui-tooling-android:1.5.0] /home/ayoub/.gradle/caches/transforms-3/01ca367e4f093ef02ba57bc73c7de9ec/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
 159
 160        <provider
-160-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
-161            android:name="androidx.startup.InitializationProvider"
-161-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
-162            android:authorities="com.example.fitswing.androidx-startup"
-162-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
-163            android:exported="false" >
-163-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
-164            <meta-data
-164-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
-165                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-165-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
-166                android:value="androidx.startup" />
-166-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
-167            <meta-data
-167-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
-168                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-168-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
-169                android:value="androidx.startup" />
-169-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
-170            <meta-data
-170-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-171                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-171-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-172                android:value="androidx.startup" />
-172-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-173        </provider>
-174
-175        <receiver
-175-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:29:9-33:20
-176            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-176-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:30:13-85
-177            android:enabled="true"
-177-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:31:13-35
-178            android:exported="false" >
-178-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:32:13-37
-179        </receiver>
-180
-181        <service
-181-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:35:9-38:40
-182            android:name="com.google.android.gms.measurement.AppMeasurementService"
-182-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:36:13-84
-183            android:enabled="true"
-183-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:37:13-35
-184            android:exported="false" />
-184-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:38:13-37
-185        <service
-185-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:39:9-43:72
-186            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-186-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:40:13-87
-187            android:enabled="true"
-187-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:41:13-35
-188            android:exported="false"
-188-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:42:13-37
-189            android:permission="android.permission.BIND_JOB_SERVICE" />
-189-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:43:13-69
-190
-191        <uses-library
-191-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
-192            android:name="android.ext.adservices"
-192-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
-193            android:required="false" />
-193-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
-194
-195        <meta-data
-195-->[com.google.android.gms:play-services-basement:18.3.0] /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
-196            android:name="com.google.android.gms.version"
-196-->[com.google.android.gms:play-services-basement:18.3.0] /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
-197            android:value="@integer/google_play_services_version" />
-197-->[com.google.android.gms:play-services-basement:18.3.0] /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
-198
-199        <activity
-199-->[androidx.compose.ui:ui-test-manifest:1.5.0] /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:23:9-25:39
-200            android:name="androidx.activity.ComponentActivity"
-200-->[androidx.compose.ui:ui-test-manifest:1.5.0] /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:24:13-63
-201            android:exported="true" />
-201-->[androidx.compose.ui:ui-test-manifest:1.5.0] /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:25:13-36
+160-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+161            android:name="com.google.firebase.provider.FirebaseInitProvider"
+161-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+162            android:authorities="com.example.fitswing.firebaseinitprovider"
+162-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+163            android:directBootAware="true"
+163-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+164            android:exported="false"
+164-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+165            android:initOrder="100" />
+165-->[com.google.firebase:firebase-common:20.4.2] /home/ayoub/.gradle/caches/transforms-3/00f38e70e4355a200e5e12cb2b5f883e/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+166
+167        <activity
+167-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+168            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+168-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+169            android:exported="false"
+169-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+170            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+170-->[com.google.android.gms:play-services-base:18.1.0] /home/ayoub/.gradle/caches/transforms-3/8ccad55f3fcab4b297e0192102df692d/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+171
+172        <provider
+172-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+173            android:name="androidx.startup.InitializationProvider"
+173-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+174            android:authorities="com.example.fitswing.androidx-startup"
+174-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+175            android:exported="false" >
+175-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+176            <meta-data
+176-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+177                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+177-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+178                android:value="androidx.startup" />
+178-->[androidx.emoji2:emoji2:1.4.0] /home/ayoub/.gradle/caches/transforms-3/0cda9424ab669068530441301ad625fa/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+179            <meta-data
+179-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+180                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+180-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+181                android:value="androidx.startup" />
+181-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/ayoub/.gradle/caches/transforms-3/fbf3374064c50ff13e8c40ea27b285dc/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+182            <meta-data
+182-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+183                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+183-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+184                android:value="androidx.startup" />
+184-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+185        </provider>
+186
+187        <receiver
+187-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:29:9-33:20
+188            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+188-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:30:13-85
+189            android:enabled="true"
+189-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:31:13-35
+190            android:exported="false" >
+190-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:32:13-37
+191        </receiver>
+192
+193        <service
+193-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:35:9-38:40
+194            android:name="com.google.android.gms.measurement.AppMeasurementService"
+194-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:36:13-84
+195            android:enabled="true"
+195-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:37:13-35
+196            android:exported="false" />
+196-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:38:13-37
+197        <service
+197-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:39:9-43:72
+198            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+198-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:40:13-87
+199            android:enabled="true"
+199-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:41:13-35
+200            android:exported="false"
+200-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:42:13-37
+201            android:permission="android.permission.BIND_JOB_SERVICE" />
+201-->[com.google.android.gms:play-services-measurement:21.5.1] /home/ayoub/.gradle/caches/transforms-3/9c505b942dbbd2c9118dddafc4d22c9e/transformed/play-services-measurement-21.5.1/AndroidManifest.xml:43:13-69
 202
 203        <uses-library
-203-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
-204            android:name="androidx.window.extensions"
-204-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+203-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+204            android:name="android.ext.adservices"
+204-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
 205            android:required="false" />
-205-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
-206        <uses-library
-206-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
-207            android:name="androidx.window.sidecar"
-207-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
-208            android:required="false" />
-208-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
-209
-210        <receiver
-210-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-211            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-211-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-212            android:directBootAware="false"
-212-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-213            android:enabled="true"
-213-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-214            android:exported="true"
-214-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-215            android:permission="android.permission.DUMP" >
-215-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-216            <intent-filter>
-216-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-217                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-217-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-217-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-218            </intent-filter>
-219            <intent-filter>
-219-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-220                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-220-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-220-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-221            </intent-filter>
-222            <intent-filter>
-222-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-223                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
-224            </intent-filter>
-225            <intent-filter>
-225-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-226                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
-227            </intent-filter>
-228        </receiver>
-229    </application>
-230
-231</manifest>
+205-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/ayoub/.gradle/caches/transforms-3/a7e544857f87f62e52ce7e13cdedb7ab/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+206
+207        <meta-data
+207-->[com.google.android.gms:play-services-basement:18.3.0] /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+208            android:name="com.google.android.gms.version"
+208-->[com.google.android.gms:play-services-basement:18.3.0] /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+209            android:value="@integer/google_play_services_version" />
+209-->[com.google.android.gms:play-services-basement:18.3.0] /home/ayoub/.gradle/caches/transforms-3/32911b6db09d50554dd4818955896963/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+210
+211        <activity
+211-->[androidx.compose.ui:ui-test-manifest:1.5.0] /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:23:9-25:39
+212            android:name="androidx.activity.ComponentActivity"
+212-->[androidx.compose.ui:ui-test-manifest:1.5.0] /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:24:13-63
+213            android:exported="true" />
+213-->[androidx.compose.ui:ui-test-manifest:1.5.0] /home/ayoub/.gradle/caches/transforms-3/cddeae178c53d6a2b02637c1d4d73009/transformed/ui-test-manifest-1.5.0/AndroidManifest.xml:25:13-36
+214
+215        <uses-library
+215-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+216            android:name="androidx.window.extensions"
+216-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+217            android:required="false" />
+217-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+218        <uses-library
+218-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+219            android:name="androidx.window.sidecar"
+219-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+220            android:required="false" />
+220-->[androidx.window:window:1.0.0] /home/ayoub/.gradle/caches/transforms-3/8a03fd0d90c680d93806ee79c23ac943/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+221
+222        <receiver
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+223            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+224            android:directBootAware="false"
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+225            android:enabled="true"
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+226            android:exported="true"
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+227            android:permission="android.permission.DUMP" >
+227-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+228            <intent-filter>
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+229                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+230            </intent-filter>
+231            <intent-filter>
+231-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+232                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+232-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+232-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+233            </intent-filter>
+234            <intent-filter>
+234-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+235                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+235-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+235-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+236            </intent-filter>
+237            <intent-filter>
+237-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+238                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+238-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+238-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ayoub/.gradle/caches/transforms-3/cf9caaafc22af737e71672288b2c2b59/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+239            </intent-filter>
+240        </receiver>
+241    </application>
+242
+243</manifest>

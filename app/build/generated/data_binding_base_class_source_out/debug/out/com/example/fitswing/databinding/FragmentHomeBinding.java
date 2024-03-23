@@ -31,22 +31,19 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final LinearLayout Layout2;
 
   @NonNull
+  public final TextView calorietxt;
+
+  @NonNull
   public final CircularProgressBar circularProgressBar;
-
-  @NonNull
-  public final TextView descriptionTextView;
-
-  @NonNull
-  public final TextView descriptionTextView1;
-
-  @NonNull
-  public final TextView descriptionTextView3;
 
   @NonNull
   public final HorizontalScrollView horizontalScrollView;
 
   @NonNull
   public final HorizontalScrollView horizontalScrollView2;
+
+  @NonNull
+  public final LinearLayout layoutA;
 
   @NonNull
   public final LinearLayout linearLayout;
@@ -64,7 +61,7 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView textOnToProgress;
 
   @NonNull
-  public final TextView textProgressPercentage;
+  public final TextView textProgress;
 
   @NonNull
   public final TextView textView;
@@ -82,15 +79,6 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView titleChallenge3;
 
   @NonNull
-  public final TextView titleTextView;
-
-  @NonNull
-  public final TextView titleTextView1;
-
-  @NonNull
-  public final TextView titleTextView3;
-
-  @NonNull
   public final TextView todayDate;
 
   @NonNull
@@ -103,41 +91,36 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView usernameTextView2;
 
   private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull LinearLayout Layout,
-      @NonNull LinearLayout Layout2, @NonNull CircularProgressBar circularProgressBar,
-      @NonNull TextView descriptionTextView, @NonNull TextView descriptionTextView1,
-      @NonNull TextView descriptionTextView3, @NonNull HorizontalScrollView horizontalScrollView,
-      @NonNull HorizontalScrollView horizontalScrollView2, @NonNull LinearLayout linearLayout,
-      @NonNull ImageButton notificationButton, @NonNull FrameLayout progressFrame,
-      @NonNull TextView textAccumulating, @NonNull TextView textOnToProgress,
-      @NonNull TextView textProgressPercentage, @NonNull TextView textView,
-      @NonNull TextView textView2, @NonNull TextView titleChallenge1,
+      @NonNull LinearLayout Layout2, @NonNull TextView calorietxt,
+      @NonNull CircularProgressBar circularProgressBar,
+      @NonNull HorizontalScrollView horizontalScrollView,
+      @NonNull HorizontalScrollView horizontalScrollView2, @NonNull LinearLayout layoutA,
+      @NonNull LinearLayout linearLayout, @NonNull ImageButton notificationButton,
+      @NonNull FrameLayout progressFrame, @NonNull TextView textAccumulating,
+      @NonNull TextView textOnToProgress, @NonNull TextView textProgress,
+      @NonNull TextView textView, @NonNull TextView textView2, @NonNull TextView titleChallenge1,
       @NonNull TextView titleChallenge2, @NonNull TextView titleChallenge3,
-      @NonNull TextView titleTextView, @NonNull TextView titleTextView1,
-      @NonNull TextView titleTextView3, @NonNull TextView todayDate, @NonNull ImageButton userIcon,
+      @NonNull TextView todayDate, @NonNull ImageButton userIcon,
       @NonNull TextView usernameTextView, @NonNull TextView usernameTextView2) {
     this.rootView = rootView;
     this.Layout = Layout;
     this.Layout2 = Layout2;
+    this.calorietxt = calorietxt;
     this.circularProgressBar = circularProgressBar;
-    this.descriptionTextView = descriptionTextView;
-    this.descriptionTextView1 = descriptionTextView1;
-    this.descriptionTextView3 = descriptionTextView3;
     this.horizontalScrollView = horizontalScrollView;
     this.horizontalScrollView2 = horizontalScrollView2;
+    this.layoutA = layoutA;
     this.linearLayout = linearLayout;
     this.notificationButton = notificationButton;
     this.progressFrame = progressFrame;
     this.textAccumulating = textAccumulating;
     this.textOnToProgress = textOnToProgress;
-    this.textProgressPercentage = textProgressPercentage;
+    this.textProgress = textProgress;
     this.textView = textView;
     this.textView2 = textView2;
     this.titleChallenge1 = titleChallenge1;
     this.titleChallenge2 = titleChallenge2;
     this.titleChallenge3 = titleChallenge3;
-    this.titleTextView = titleTextView;
-    this.titleTextView1 = titleTextView1;
-    this.titleTextView3 = titleTextView3;
     this.todayDate = todayDate;
     this.userIcon = userIcon;
     this.usernameTextView = usernameTextView;
@@ -183,27 +166,15 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.calorietxt;
+      TextView calorietxt = ViewBindings.findChildViewById(rootView, id);
+      if (calorietxt == null) {
+        break missingId;
+      }
+
       id = R.id.circularProgressBar;
       CircularProgressBar circularProgressBar = ViewBindings.findChildViewById(rootView, id);
       if (circularProgressBar == null) {
-        break missingId;
-      }
-
-      id = R.id.descriptionTextView;
-      TextView descriptionTextView = ViewBindings.findChildViewById(rootView, id);
-      if (descriptionTextView == null) {
-        break missingId;
-      }
-
-      id = R.id.descriptionTextView1;
-      TextView descriptionTextView1 = ViewBindings.findChildViewById(rootView, id);
-      if (descriptionTextView1 == null) {
-        break missingId;
-      }
-
-      id = R.id.descriptionTextView3;
-      TextView descriptionTextView3 = ViewBindings.findChildViewById(rootView, id);
-      if (descriptionTextView3 == null) {
         break missingId;
       }
 
@@ -216,6 +187,12 @@ public final class FragmentHomeBinding implements ViewBinding {
       id = R.id.horizontalScrollView2;
       HorizontalScrollView horizontalScrollView2 = ViewBindings.findChildViewById(rootView, id);
       if (horizontalScrollView2 == null) {
+        break missingId;
+      }
+
+      id = R.id.layoutA;
+      LinearLayout layoutA = ViewBindings.findChildViewById(rootView, id);
+      if (layoutA == null) {
         break missingId;
       }
 
@@ -249,9 +226,9 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.text_progress_percentage;
-      TextView textProgressPercentage = ViewBindings.findChildViewById(rootView, id);
-      if (textProgressPercentage == null) {
+      id = R.id.text_progress;
+      TextView textProgress = ViewBindings.findChildViewById(rootView, id);
+      if (textProgress == null) {
         break missingId;
       }
 
@@ -285,24 +262,6 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.titleTextView;
-      TextView titleTextView = ViewBindings.findChildViewById(rootView, id);
-      if (titleTextView == null) {
-        break missingId;
-      }
-
-      id = R.id.titleTextView1;
-      TextView titleTextView1 = ViewBindings.findChildViewById(rootView, id);
-      if (titleTextView1 == null) {
-        break missingId;
-      }
-
-      id = R.id.titleTextView3;
-      TextView titleTextView3 = ViewBindings.findChildViewById(rootView, id);
-      if (titleTextView3 == null) {
-        break missingId;
-      }
-
       id = R.id.todayDate;
       TextView todayDate = ViewBindings.findChildViewById(rootView, id);
       if (todayDate == null) {
@@ -327,12 +286,11 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, Layout2,
-          circularProgressBar, descriptionTextView, descriptionTextView1, descriptionTextView3,
-          horizontalScrollView, horizontalScrollView2, linearLayout, notificationButton,
-          progressFrame, textAccumulating, textOnToProgress, textProgressPercentage, textView,
-          textView2, titleChallenge1, titleChallenge2, titleChallenge3, titleTextView,
-          titleTextView1, titleTextView3, todayDate, userIcon, usernameTextView, usernameTextView2);
+      return new FragmentHomeBinding((ConstraintLayout) rootView, Layout, Layout2, calorietxt,
+          circularProgressBar, horizontalScrollView, horizontalScrollView2, layoutA, linearLayout,
+          notificationButton, progressFrame, textAccumulating, textOnToProgress, textProgress,
+          textView, textView2, titleChallenge1, titleChallenge2, titleChallenge3, todayDate,
+          userIcon, usernameTextView, usernameTextView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

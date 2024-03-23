@@ -24,6 +24,7 @@
     <string name="google_app_id" translatable="false">1:170839142238:android:88806d636bcef2cd5769cf</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDkku14BgCWNCgh4Q8l5h0Nsv4PCXupdtg</string>
     <string name="google_storage_bucket" translatable="false">fitswing-6ea90.appspot.com</string>
+    <string name="progress_shortcut">Progress Shortcut</string>
     <string name="project_id" translatable="false">fitswing-6ea90</string>
     <string name="title_activity">Activity</string>
     <string name="title_activity_login">login_activity</string>
