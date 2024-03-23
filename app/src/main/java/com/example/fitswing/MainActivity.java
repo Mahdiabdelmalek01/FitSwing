@@ -25,6 +25,10 @@ private ActivityMainBinding binding;
         if (getSupportActionBar() != null) {
             getSupportActionBar().hide();
         }
+        //notification call
+        Intent serviceIntent = new Intent(this, NotificationService.class);
+        startService(serviceIntent);
+
         // this if statement checks if the user is logged in
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         if (user != null) {
