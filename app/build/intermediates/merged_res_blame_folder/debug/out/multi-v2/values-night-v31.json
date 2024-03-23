@@ -4,7 +4,9 @@
             "outputFile": "com.example.fitswing.app-mergeDebugResources-73:/values-night-v31/values-night-v31.xml",
             "map": [
                 {
-                    "source": "/Users/mahdiabdelmalek/git/FitSwing/app/src/main/res/values-night-v31/themes.xml",
+
+                    "source": "/home/ayoub/Documents/FitSwing/app/src/main/res/values-night-v31/themes.xml",
+
                     "from": {
                         "startLines": "5",
                         "startColumns": "4",

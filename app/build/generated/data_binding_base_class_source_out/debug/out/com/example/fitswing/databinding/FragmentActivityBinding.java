@@ -4,12 +4,10 @@ package com.example.fitswing.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.CheckBox;
-import android.widget.ImageView;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.fitswing.R;
@@ -23,34 +21,16 @@ public final class FragmentActivityBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView activityDuration;
-
-  @NonNull
-  public final TextView activityTitle;
-
-  @NonNull
-  public final TextView caloriesBurned;
-
-  @NonNull
-  public final CheckBox completedCheckbox;
-
-  @NonNull
-  public final ImageView editBtn;
-
-  @NonNull
   public final FloatingActionButton fab;
 
+  @NonNull
+  public final RecyclerView recycleView;
+
   private FragmentActivityBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView activityDuration, @NonNull TextView activityTitle,
-      @NonNull TextView caloriesBurned, @NonNull CheckBox completedCheckbox,
-      @NonNull ImageView editBtn, @NonNull FloatingActionButton fab) {
+      @NonNull FloatingActionButton fab, @NonNull RecyclerView recycleView) {
     this.rootView = rootView;
-    this.activityDuration = activityDuration;
-    this.activityTitle = activityTitle;
-    this.caloriesBurned = caloriesBurned;
-    this.completedCheckbox = completedCheckbox;
-    this.editBtn = editBtn;
     this.fab = fab;
+    this.recycleView = recycleView;
   }
 
   @Override
@@ -80,44 +60,19 @@ public final class FragmentActivityBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.activityDuration;
-      TextView activityDuration = ViewBindings.findChildViewById(rootView, id);
-      if (activityDuration == null) {
-        break missingId;
-      }
-
-      id = R.id.activityTitle;
-      TextView activityTitle = ViewBindings.findChildViewById(rootView, id);
-      if (activityTitle == null) {
-        break missingId;
-      }
-
-      id = R.id.caloriesBurned;
-      TextView caloriesBurned = ViewBindings.findChildViewById(rootView, id);
-      if (caloriesBurned == null) {
-        break missingId;
-      }
-
-      id = R.id.completedCheckbox;
-      CheckBox completedCheckbox = ViewBindings.findChildViewById(rootView, id);
-      if (completedCheckbox == null) {
-        break missingId;
-      }
-
-      id = R.id.editBtn;
-      ImageView editBtn = ViewBindings.findChildViewById(rootView, id);
-      if (editBtn == null) {
-        break missingId;
-      }
-
       id = R.id.fab;
       FloatingActionButton fab = ViewBindings.findChildViewById(rootView, id);
       if (fab == null) {
         break missingId;
       }
 
-      return new FragmentActivityBinding((ConstraintLayout) rootView, activityDuration,
-          activityTitle, caloriesBurned, completedCheckbox, editBtn, fab);
+      id = R.id.recycleView;
+      RecyclerView recycleView = ViewBindings.findChildViewById(rootView, id);
+      if (recycleView == null) {
+        break missingId;
+      }
+
+      return new FragmentActivityBinding((ConstraintLayout) rootView, fab, recycleView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

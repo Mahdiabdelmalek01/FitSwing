@@ -1,46 +1,50 @@
 [
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_add.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_add.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_progress.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_main.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_main.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_login.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/my_widget.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/my_widget.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/my_widget.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/my_widget.xml"
     },
     {
-        "merged": "com.example.fitswing.app-mergeDebugResources-74:/layout/my_widget.xml",
-        "source": "com.example.fitswing.app-main-77:/layout/my_widget.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_settings.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_settings.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_setup.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_setup.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_register.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_register.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_activity.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_activity.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_home.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_home.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_main.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_activity.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_activity.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_view.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_view.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_progress.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_add.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_add.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_login.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_login.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_register.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_register.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/activity_setup.xml",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_setup.xml"
+        "merged": "com.example.fitswing.app-mergeDebugResources-74:/layout/activity_view.xml",
+        "source": "com.example.fitswing.app-main-77:/layout/activity_view.xml"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-mergeDebugResources-74:/layout/fragment_home.xml",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_home.xml"
     }
 ]

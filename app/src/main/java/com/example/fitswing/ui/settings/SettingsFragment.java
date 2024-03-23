@@ -13,6 +13,11 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.fitswing.databinding.FragmentSettingsBinding;
 import com.example.fitswing.ui.login;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class SettingsFragment extends Fragment {
 
@@ -36,6 +41,22 @@ private FragmentSettingsBinding binding;
             getActivity().finish();
         }
     });
+    TextView userText = binding.usernameTextView;
+        String userID = FirebaseAuth.getInstance().getCurrentUser().getUid();
+        FirebaseDatabase database = FirebaseDatabase.getInstance("https://fitswing-6ea90-default-rtdb.europe-west1.firebasedatabase.app/");
+        DatabaseReference myRef = database.getReference("users").child(userID).child("username");
+
+        myRef.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                String username = snapshot.getValue(String.class);
+                userText.append(username);
+            }
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
         return root;
     }
 

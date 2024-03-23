@@ -58,7 +58,7 @@
                 android:id="@+id/txtDate"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Date"
+                android:hint="Date (DD/MM/YY)"
                 android:layout_margin="5dp"
                 android:padding="10dp"
                 android:background="@drawable/corners"

@@ -1,354 +1,358 @@
 [
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_main.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_main.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_user.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_user.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_calories.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/calories.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_edit.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/edit.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_add.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_add.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_delete.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/delete.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_fire.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/fire.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_fire.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/fire.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_progress.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_plus.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/plus.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_my_widget.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/my_widget.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_delete.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/delete.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_action_name.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_ic_notification.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/ic_notification.png"
+        "merged": "com.example.fitswing.app-merged_res-75:/layout_activity_view.xml.flat",
+        "source": "com.example.fitswing.app-main-77:/layout/activity_view.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_ic_notification.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/ic_notification.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_fire.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/fire.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_my_widget.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/my_widget.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_settings.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_activity.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_activity.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_user.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_user.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_launcher_foreground.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_shape.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/shape.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_shape.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/shape.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_ic_user.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/ic_user.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_notification.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_shape1.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/shape1.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_home.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_shape1.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/shape1.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-anydpi-v26_ic_banner.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-anydpi-v26/ic_banner.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_plus.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/plus.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_calories.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/calories.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_home.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_home.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_edit.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/edit.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_delete.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/delete.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_main.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_custom_shape.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/custom_shape.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/navigation/mobile_navigation.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_edit.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/edit.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_edit.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/edit.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_activity_black_24dp.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_activity_black_24dp.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_plus.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/plus.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_setup.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_setup.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_view.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_view.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-v21_app_widget_inner_view_background.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-v21/app_widget_inner_view_background.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_user.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_user.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/menu_bottom_nav_menu.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/menu/bottom_nav_menu.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_delete.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/delete.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_shape1.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/shape1.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_notification.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_shape1.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/shape1.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_add.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_add.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/xml_backup_rules.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_setup.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_setup.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/xml_backup_rules.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/xml/backup_rules.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_ic_notification.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/ic_notification.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_fire.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/fire.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_delete.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/delete.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_fire.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/fire.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_delete.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/delete.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-v21_app_widget_background.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-v21/app_widget_background.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_activity_black_24dp.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_activity_black_24dp.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_edit.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/edit.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_plus.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/plus.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_launcher_background.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_ic_notification.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/ic_notification.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_calories.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/calories.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_home_black_24dp.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_home_black_24dp.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-v21_app_widget_background.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-v21/app_widget_background.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_action_name.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_action_name.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/menu/bottom_nav_menu.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_setting_black_24dp.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_setting_black_24dp.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/ic_notification.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_calories.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/calories.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_ic_user.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/ic_user.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_home_black_24dp.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_delete.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/delete.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_edit.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/edit.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_plus.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/plus.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_edit.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/edit.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/navigation_mobile_navigation.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/navigation/mobile_navigation.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/ic_action_name.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_shape1.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/shape1.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_action_name.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_ic_banner.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/ic_banner.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_shape1.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/shape1.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_notification.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_notification.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_plus.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/plus.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_ic_action_name.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/ic_action_name.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_shape1.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/shape1.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_ic_notification.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/ic_notification.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_edit.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/edit.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_ic_action_name.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/ic_action_name.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_plus.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/plus.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_edit.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/edit.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-nodpi/example_appwidget_preview.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_fire.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/fire.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_activity.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_activity.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-anydpi-v26_ic_banner.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-anydpi-v26/ic_banner.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_corners.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/corners.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_progress.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_progress.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-v21/app_widget_inner_view_background.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_plus.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/plus.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/ic_action_name.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_user.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_user.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_shape1.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/shape1.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_edit.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/edit.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_corners.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/corners.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/xml_my_widget_info.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/xml/my_widget_info.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_action_name.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_background.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/background.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_fragment_settings.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/fragment_settings.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_custom_shape2.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/custom_shape2.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_fire.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/fire.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_ic_user.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/ic_user.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/xml_my_widget_info.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/xml/my_widget_info.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_calories.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/calories.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_background.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/background.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_shape1.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/shape1.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-nodpi_example_appwidget_preview.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-nodpi/example_appwidget_preview.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_calories.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/calories.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_register.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_register.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_plus.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/plus.png"
     },
     {
-        "merged": "com.example.fitswing.app-merged_res-75:/layout_my_widget.xml.flat",
-        "source": "com.example.fitswing.app-main-77:/layout/my_widget.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_ic_user.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/ic_user.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_delete.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/delete.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xhdpi_ic_banner.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xhdpi/ic_banner.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_plus.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/plus.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_login.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_login.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_ic_notification.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/ic_notification.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_login.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_custom_shape.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/custom_shape.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_calories.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/calories.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_calories.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/calories.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-mdpi_ic_user.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-mdpi/ic_user.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_fire.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/fire.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/xml/data_extraction_rules.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_ic_setting_black_24dp.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable/ic_setting_black_24dp.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_delete.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/delete.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_fire.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/fire.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-hdpi_ic_action_name.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-hdpi/ic_action_name.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_calories.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/calories.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_register.xml.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_register.xml"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_ic_user.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/ic_user.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable_custom_shape2.xml.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable/custom_shape2.xml"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_fire.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/fire.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_calories.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/calories.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_shape1.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/shape1.png"
     },
     {
-        "merged": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxhdpi_delete.png.flat",
-        "source": "/Users/mahdiabdelmalek/Desktop/Bachelor/app android/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxhdpi/delete.png"
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/mipmap-xxxhdpi/ic_launcher_round.webp"
     }
 ]
