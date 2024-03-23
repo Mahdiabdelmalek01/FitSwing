@@ -38,7 +38,7 @@ public class MyWidget extends AppWidgetProvider {
                 // Process fetched data and update widget UI
                 StringBuilder challenges = new StringBuilder();
                 for (DataSnapshot challengeSnapshot : dataSnapshot.getChildren()) {
-                    String activity = challengeSnapshot.child("activity").getValue(String.class);
+                    String activity = challengeSnapshot.child("name").getValue(String.class);
                     String calories = challengeSnapshot.child("calories").getValue(String.class);
                     challenges.append("* ").append(activity).append(": ").append(calories).append("\n");
                 }
