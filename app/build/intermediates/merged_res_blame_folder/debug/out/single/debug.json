@@ -40,10 +40,6 @@
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xhdpi/edit.png"
     },
     {
-        "merged": "com.example.fitswing.app-merged_res-75:/layout_fragment_home.xml.flat",
-        "source": "com.example.fitswing.app-main-77:/layout/fragment_home.xml"
-    },
-    {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_view.xml.flat",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/layout/activity_view.xml"
     },
@@ -234,6 +230,10 @@
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/drawable-xxxhdpi_ic_notification.png.flat",
         "source": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-main-77:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.fitswing.app-merged_res-75:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.fitswing.app-main-77:/menu/bottom_nav_menu.xml"
     },
     {
         "merged": "/home/ayoub/.gradle/daemon/8.0/com.example.fitswing.app-merged_res-75:/layout_activity_setup.xml.flat",
