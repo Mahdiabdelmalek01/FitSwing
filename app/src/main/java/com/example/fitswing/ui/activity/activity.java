@@ -7,8 +7,35 @@ public class activity {
     Boolean completed=false;
     String description;
     String date;
+
+    String id;
     public activity() {
 
+    }
+
+    public activity(String name, String calories, Boolean completed, String description, String id) {
+        this.name = name;
+        this.calories = calories;
+        this.completed = completed;
+        this.description = description;
+        this.id = id;
+    }
+
+    public activity(String name, String calories, Boolean completed, String description, String date, String id) {
+        this.name = name;
+        this.calories = calories;
+        this.completed = completed;
+        this.description = description;
+        this.date = date;
+        this.id = id;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     public activity(String name, String calories, String description, String date) {

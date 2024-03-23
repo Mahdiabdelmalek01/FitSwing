@@ -31,16 +31,16 @@ public final class ActivityViewBinding implements ViewBinding {
   public final CheckBox completedCheckbox;
 
   @NonNull
-  public final ImageView editBtn;
+  public final ImageView deleteBtn;
 
   private ActivityViewBinding(@NonNull ConstraintLayout rootView, @NonNull TextView activityTitle,
       @NonNull TextView caloriesBurned, @NonNull CheckBox completedCheckbox,
-      @NonNull ImageView editBtn) {
+      @NonNull ImageView deleteBtn) {
     this.rootView = rootView;
     this.activityTitle = activityTitle;
     this.caloriesBurned = caloriesBurned;
     this.completedCheckbox = completedCheckbox;
-    this.editBtn = editBtn;
+    this.deleteBtn = deleteBtn;
   }
 
   @Override
@@ -88,14 +88,14 @@ public final class ActivityViewBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.editBtn;
-      ImageView editBtn = ViewBindings.findChildViewById(rootView, id);
-      if (editBtn == null) {
+      id = R.id.deleteBtn;
+      ImageView deleteBtn = ViewBindings.findChildViewById(rootView, id);
+      if (deleteBtn == null) {
         break missingId;
       }
 
       return new ActivityViewBinding((ConstraintLayout) rootView, activityTitle, caloriesBurned,
-          completedCheckbox, editBtn);
+          completedCheckbox, deleteBtn);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
